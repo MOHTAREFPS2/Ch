@@ -1,0 +1,1327 @@
+[
+  {
+    "question": "A premature neonate presents with severe hypoxemia and respiratory distress shortly after birth. Analysis of the pulmonary surfactant reveals a specific lipid deficiency. Complete hydrolysis of this missing lipid would normally yield which unique component?",
+    "options": [
+      "Ethanolamine",
+      "Sphingosine",
+      "Choline base",
+      "Inositol"
+    ],
+    "answer": "C",
+    "explanation": "نقص السرفاكتانت يسبب متلازمة RDS. المكون الأساسي للسرفاكتانت هو Di-palmitoyl lecithin، والليسيثين عند تحلله يعطي قاعدة الكولين (Choline base)."
+  },
+  {
+    "question": "A patient on a strictly fat-free diet develops dermatitis and poor wound healing. If linoleic acid is completely absent from their diet, which of the following fatty acids becomes conditionally essential?",
+    "options": [
+      "Palmitic acid (16:0)",
+      "Oleic acid (18:1)",
+      "Linolenic acid (18:3)",
+      "Arachidonic acid (20:4)"
+    ],
+    "answer": "D",
+    "explanation": "حمض الأراكيدونيك يصبح أساسياً (Essential) ويجب تناوله في الغذاء إذا كان هناك نقص في حمض اللينوليك في النظام الغذائي."
+  },
+  {
+    "question": "A 28-year-old female patient has a history of recurrent deep vein thrombosis and two consecutive fetal losses. Her condition is linked to autoantibodies targeting which specific class of molecules?",
+    "options": [
+      "Neutral triglycerides",
+      "Acidic phospholipids",
+      "Apolipoproteins",
+      "Cholesterol esters"
+    ],
+    "answer": "B",
+    "explanation": "المريضة تعاني من (Anti-phospholipid syndrome)، حيث تهاجم الأجسام المضادة الدهون الفوسفاتية الحامضية (Acidic phospholipids) مثل الكارديوليقين."
+  },
+  {
+    "question": "A patient with impaired hepatic function develops severe hepatomegaly. Biopsy shows massive triacylglycerol accumulation (Fatty Liver). This defect is most likely due to the failure in assembling which structure necessary for lipid export?",
+    "options": [
+      "Lipoproteins",
+      "Cell membrane bilayers",
+      "Cholesterol stones",
+      "Prostaglandins"
+    ],
+    "answer": "A",
+    "explanation": "الكبد الدهني يحدث بسبب خلل في نقل الدهون (triacylglycerol) من الكبد إلى الأنسجة، وهذا النقل يعتمد حصرياً على تكوين البروتينات الدهنية (Lipoproteins)."
+  },
+  {
+    "question": "To prevent cellular toxicity from excess free membrane lipids, an intracellular enzyme modifies cholesterol for storage. This enzymatic modification specifically occurs at which structural position?",
+    "options": [
+      "Carbon 27 via phosphorylation",
+      "The hydrophobic tail via saturation",
+      "Carbon 3 hydroxyl group via esterification",
+      "The steroid nucleus via cleavage"
+    ],
+    "answer": "C",
+    "explanation": "يُخزن الكوليسترول على شكل (Cholesterol esters) داخل الخلية، وتتم هذه العملية عن طريق أسترة مجموعة الهيدروكسيل (OH) الحرة الموجودة عند ذرة الكربون رقم 3."
+  },
+  {
+    "question": "A demyelinating disease affects the specific lipid composition of nerve cell membranes. The primary compound lipid affected in this tissue does NOT contain which of the following components upon complete hydrolysis?",
+    "options": [
+      "Fatty acids",
+      "Phosphoric acid",
+      "Glycerol",
+      "Sphingosine"
+    ],
+    "answer": "C",
+    "explanation": "الدهن الأساسي في الأعصاب والدماغ هو السفينغوميالين (Sphingomyelin)، وهو لا يحتوي على الجليسرول، بل يستخدم كحول السفينغوزين بدلاً منه."
+  },
+  {
+    "question": "During a laboratory experiment, a researcher completely hydrolyzes Phosphatidic acid. Which of the following accurately represents the expected yield?",
+    "options": [
+      "Glycerol, fatty acids, phosphoric acid, and choline",
+      "Glycerol, saturated FA, unsaturated FA, and phosphoric acid",
+      "Sphingosine, fatty acids, and phosphoric acid",
+      "Glycerol and three molecules of fatty acids"
+    ],
+    "answer": "B",
+    "explanation": "حمض الفوسفاتيديك هو أبسط فوسفوليبيد، وعند تحلله يعطي: جليسرول، حمض دهني مشبع، حمض دهني غير مشبع، وحمض الفوسفوريك (بدون أي قواعد إضافية مثل الكولين)."
+  },
+  {
+    "question": "A patient undergoes cholecystectomy for severe gallstones. Biochemical analysis shows the stones are purely cholesterol. This condition primarily results from a deficiency of which substance normally responsible for solubilizing cholesterol in bile?",
+    "options": [
+      "Prostaglandins",
+      "Apolipoproteins",
+      "Phospholipids",
+      "Lipases"
+    ],
+    "answer": "C",
+    "explanation": "الدهون الفوسفاتية (Phospholipids) في عصارة المرارة تعمل كمذيب للكوليسترول وتمنع ترسبه. نقصها يؤدي مباشرة إلى تكوين حصوات الكوليسترول."
+  },
+  {
+    "question": "Non-steroidal anti-inflammatory drugs (NSAIDs) exert their pain-relieving effect by blocking the conversion of a specific tetra-enoic fatty acid into prostaglandins. What is the standard numerical designation for this precursor fatty acid?",
+    "options": [
+      "18:1",
+      "18:2",
+      "18:3",
+      "20:4"
+    ],
+    "answer": "D",
+    "explanation": "المادة الخام للبروستاغلاندين هي حمض الأراكيدونيك (Arachidonic acid)، وهو حمض دهني يحتوي على 20 ذرة كربون و 4 روابط مزدوجة (20:4)."
+  },
+  {
+    "question": "The characteristic fluidity of the eukaryotic cell membrane is biochemically modulated by a specific C27 molecule. How does this molecule orient itself within the lipid bilayer?",
+    "options": [
+      "It binds to the outer carbohydrate chains of glycolipids.",
+      "Its polar OH group faces the aqueous interface, while its body lies within the hydrophobic tails.",
+      "It is completely submerged in the hydrophobic core, away from any water molecules.",
+      "It forms a separate rigid monolayer on the cytoplasmic side of the membrane."
+    ],
+    "answer": "B",
+    "explanation": "الكوليسترول (C27) يوجه رأسه القطبي (مجموعة OH) نحو السطح المائي للغشاء، بينما يندفن باقي تركيبه الكاره للماء بين ذيول الأحماض الدهنية لينظم سيولة الغشاء."
+  },
+  {
+    "question": "A patient with a rare bleeding disorder undergoes extensive lipid profiling. The hematologist notes a functional defect in specific membrane lipids crucial for the blood coagulation cascade. Which pair of lipids is most likely implicated?",
+    "options": [
+      "Lecithin and Sphingomyelin",
+      "Cephalin and Cardiolipin",
+      "Cholesterol and Triacylglycerol",
+      "Plasmalogen and Waxes"
+    ],
+    "answer": "B",
+    "explanation": "السيفالين (Cephalins)، بالإضافة إلى فوسفاتيديل سيرين وكارديوليقين، تلعب دوراً أساسياً ومباشراً في عملية تخثر الدم (Blood coagulation)."
+  },
+  {
+    "question": "Which of the following statements most accurately distinguishes Sterols from other classes of derived lipids?",
+    "options": [
+      "They are linear hydrocarbon chains lacking double bonds.",
+      "They are steroids containing a free hydroxyl group.",
+      "They are the primary storage form of energy in adipocytes.",
+      "They are highly water-soluble due to multiple phosphate groups."
+    ],
+    "answer": "B",
+    "explanation": "الستيرولز (Sterols) تُعرّف كيميائياً بأنها ستيرويدات تحتوي على مجموعات هيدروكسيل (OH)، والكوليسترول هو أشهر مثال في الأنسجة الحيوانية."
+  },
+  {
+    "question": "In a clinical laboratory, a technician separates a patient's plasma lipoproteins based on their density. Which specific technique is most appropriate for this physical separation?",
+    "options": [
+      "Mass spectrometry",
+      "Ultracentrifugation",
+      "Polymerase chain reaction (PCR)",
+      "Simple distillation"
+    ],
+    "answer": "B",
+    "explanation": "تُفصل البروتينات الدهنية (Lipoproteins) في المختبر إما عن طريق الطرد المركزي الفائق (Ultracentrifugation) بناءً على كثافتها، أو الرحلان الكهربائي (Electrophoresis)."
+  },
+  {
+    "question": "Comparing the structural formulas of various fatty acids, which feature directly causes an unsaturated fatty acid to remain liquid at room temperature compared to a saturated one?",
+    "options": [
+      "The presence of a phosphate group at the terminal end.",
+      "The length of the carbon chain exceeding 20 carbons.",
+      "The presence of one or more double bonds causing bends in the hydrocarbon chain.",
+      "The binding of the fatty acid to a cholesterol nucleus."
+    ],
+    "answer": "C",
+    "explanation": "الروابط المزدوجة في الأحماض الدهنية غير المشبعة تسبب 'انحناءات' في السلسلة، مما يمنع الجزيئات من التكدس بصلابة، فتظل سائلة في درجة حرارة الغرفة."
+  },
+  {
+    "question": "A forensic biochemist analyzes an unknown lipid sample and finds it consists exclusively of fatty acids esterified to high molecular weight monohydric alcohols, with no glycerol present. This lipid is best classified as a:",
+    "options": [
+      "Simple lipid (Fat)",
+      "Simple lipid (Wax)",
+      "Compound lipid (Glycolipid)",
+      "Derived lipid (Steroid)"
+    ],
+    "answer": "B",
+    "explanation": "الشموع (Waxes) هي دهون بسيطة تتكون من استر حمض دهني مع كحول أحادي الهيدروكسيل ذو وزن جزيئي عالٍ، بينما الدهون العادية تستخدم الجليسرول."
+  },
+  {
+    "question": "Which of the following is NOT considered a physiological function of essential polyunsaturated fatty acids (PUFA)?",
+    "options": [
+      "Synthesis of eicosanoic acids",
+      "Raising plasma cholesterol levels",
+      "Proper development and functioning of the brain",
+      "Role in membrane formation and function"
+    ],
+    "answer": "B",
+    "explanation": "الأحماض الدهنية الأساسية تعمل على (خفض) كوليسترول البلازما وليس رفعه، مما يجعلها مفيدة لصحة القلب والأوعية الدموية."
+  },
+  {
+    "question": "A poly-enoic fatty acid is designated biochemically as (18:2). This specific notation indicates that the molecule is:",
+    "options": [
+      "Oleic acid, containing 18 carbons and 2 oxygen atoms.",
+      "Linolenic acid, containing 18 carbons and 2 double bonds.",
+      "Linoleic acid, containing 18 carbons and 2 double bonds.",
+      "Arachidonic acid, containing 18 carbons and 2 double bonds."
+    ],
+    "answer": "C",
+    "explanation": "الرمز (18:2) يعود لحمض اللينوليك (Linoleic acid) الذي يحتوي على 18 ذرة كربون ورابطتين مزدوجتين (Di-enoic)."
+  },
+  {
+    "question": "In the context of complex lipid synthesis, which of the following molecules acts as the direct immediate precursor for both Lecithin (phosphatidylcholine) and Cephalin (phosphatidylethanolamine)?",
+    "options": [
+      "Cholesterol",
+      "Phosphatidic acid",
+      "Sphingosine",
+      "Arachidonic acid"
+    ],
+    "answer": "B",
+    "explanation": "حمض الفوسفاتيديك (Phosphatidic acid) هو الأب والسلف (Precursor) لجميع الدهون الفوسفاتية التي تحتوي على الجليسرول."
+  },
+  {
+    "question": "Atherosclerosis is a life-threatening condition initiated by lipid deposition in blood vessel walls. The primary pathological molecule deposited is transported through the plasma mainly via complexes composed of lipids and:",
+    "options": [
+      "Specific proteins called apolipoproteins",
+      "Carbohydrate chains attached to sphingosine",
+      "Free floating phosphoric acids",
+      "Aggregates of essential fatty acids"
+    ],
+    "answer": "A",
+    "explanation": "تصلب الشرايين ينتج عن ترسب الكوليسترول. هذا الكوليسترول ينتقل في الدم عبر (Lipoproteins) وهي معقدات من الدهون وبروتينات متخصصة تسمى Apolipoproteins."
+  },
+  {
+    "question": "If a biochemist wants to synthesize a Glycolipid in vitro, which of the following functional groups or molecules must be strictly EXCLUDED from the reaction mixture?",
+    "options": [
+      "Fatty acids",
+      "Sphingosine",
+      "Carbohydrates",
+      "Phosphoric acid"
+    ],
+    "answer": "D",
+    "explanation": "الليبيدات السكرية (Glycolipids) تتكون من دهون وسكريات وسفينغوزين، ولكنها لا تحتوي إطلاقاً على مجموعة فوسفات (Phosphoric acid)."
+  },
+  {
+    "question": "Which of the following biologically active compounds is NOT synthesized using cholesterol as a precursor?",
+    "options": [
+      "Cortisol (Adrenal gland hormone)",
+      "Progesterone (Sex hormone)",
+      "Bile acids",
+      "Prostaglandins"
+    ],
+    "answer": "D",
+    "explanation": "البروستاغلاندين يُصنع من حمض الأراكيدونيك (حمض دهني)، بينما الكورتيزول، أحماض الصفراء، والهرمونات الجنسية تُصنع جميعها من الكوليسترول."
+  },
+  {
+    "question": "Upon complete hydrolysis, which of the following lipids would yield an alcohol that is NOT glycerol?",
+    "options": [
+      "Triacylglycerol",
+      "Lecithin",
+      "Sphingomyelin",
+      "Cephalin"
+    ],
+    "answer": "C",
+    "explanation": "السفينغوميالين (Sphingomyelin) ينتمي إلى مجموعة Sphingo-phospholipids التي تستخدم كحول السفينغوزين (Sphingosine) بدلاً من الجليسرول."
+  },
+  {
+    "question": "The unifying physical property of all simple, compound, and derived lipids, despite their vast structural diversity, is their:",
+    "options": [
+      "Ability to form long polymeric chains",
+      "Insolubility in aqueous plasma and water",
+      "Presence of at least one double bond",
+      "Dependence on cholesterol for structural integrity"
+    ],
+    "answer": "B",
+    "explanation": "الخاصية الوحيدة التي تجمع كل الليبيدات (سواء بسيطة أو مركبة أو مشتقة) هي كراهيتها للماء وعدم ذوبانها فيه، وقدرتها على الذوبان في المذيبات العضوية."
+  },
+  {
+    "question": "A medical student is studying the structural components of membranes. They note a lipid that acts as an interface between the hydrophobic core and the aqueous environment, containing choline. This lipid is highly abundant in the liver and brain. What is it?",
+    "options": [
+      "Cardiolipin",
+      "Phosphatidylcholine (Lecithin)",
+      "Phosphatidylethanolamine (Cephalin)",
+      "Phosphatidylinositol"
+    ],
+    "answer": "B",
+    "explanation": "الليسيثين (Lecithin) هو فوسفاتيديل كولين، ويوجد بكميات كبيرة في غشاء الخلية والكبد والدماغ، ويحتوي على قاعدة الكولين."
+  },
+  {
+    "question": "Derived lipids are produced by the hydrolysis of simple or compound lipids. Which of the following pairs represents exclusively derived lipids?",
+    "options": [
+      "Triglycerides and Waxes",
+      "Lecithin and Cephalin",
+      "Fatty acids and Cholesterol",
+      "Sphingomyelin and Glycolipids"
+    ],
+    "answer": "C",
+    "explanation": "الأحماض الدهنية والكوليسترول (والستيرولات عموماً) تُصنف ضمن الدهون المشتقة (Derived Lipids) حسب التصنيف الكيميائي الحيوي."
+  },
+  {
+    "question": "Which of the following macromolecules are NOT polymeric molecules?",
+    "options": ["Carbohydrates", "Proteins", "Nucleic acids", "Lipids"],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "Unlike carbohydrates, proteins, and nucleic acids, lipids are not polymeric molecules constructed from monomer subunits."
+  },
+  {
+    "question": "Which of the following best describes the general solubility properties of lipids?",
+    "options": ["Soluble in water and insoluble in organic solvents", "Soluble in both water and organic solvents", "Soluble in nonpolar organic solvents and insoluble in water", "Insoluble in both water and nonpolar solvents"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Lipids are a diverse group of organic compounds that are soluble in nonpolar organic solvents (like ether and chloroform) and generally insoluble in water."
+  },
+  {
+    "question": "What is the primary biological function of triglycerides in adipocytes?",
+    "options": ["Structural components of cell membranes", "Energy storage", "Precursors of steroid hormones", "Emulsification of dietary fats"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Triglycerides are an efficient energy source and specifically provide energy storage within adipocytes."
+  },
+  {
+    "question": "Simple lipids are defined as esters of fatty acids with:",
+    "options": ["Different alcohols", "Phosphoric acid residues", "Carbohydrate residues", "Specific proteins"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Simple lipids are classified as esters of fatty acids with different alcohols, including fats, oils, and waxes."
+  },
+  {
+    "question": "Neutral fats (fats and oils) are specifically esters of fatty acids with which alcohol?",
+    "options": ["Sphingosine", "Cholesterol", "Glycerol", "High molecular weight monohydric alcohols"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Fats and oils are esters of fatty acids with glycerol, making them triacylglycerols or neutral fats."
+  },
+  {
+    "question": "Waxes differ from neutral fats because they are esters of fatty acids with:",
+    "options": ["Glycerol", "High molecular weight monohydric alcohols", "Sphingosine", "Phosphoric acid"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Waxes are defined as simple lipids that are esters of fatty acids with high molecular weight monohydric alcohols, not glycerol."
+  },
+  {
+    "question": "What structural feature characterizes saturated fatty acids?",
+    "options": ["Presence of one double bond", "Presence of multiple double bonds", "Absence of any double bonds", "Presence of a carbohydrate residue"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Saturated fatty acids, such as palmitic acid, contain no double bonds in their hydrocarbon chain."
+  },
+  {
+    "question": "Oleic acid (18:1) is classified as which type of fatty acid?",
+    "options": ["Saturated fatty acid", "Mono-enoic fatty acid", "Di-enoic fatty acid", "Tetra-enoic fatty acid"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Oleic acid contains exactly one double bond, classifying it as a mono-enoic (monounsaturated) fatty acid."
+  },
+  {
+    "question": "Which of the following fatty acids contains four double bonds?",
+    "options": ["Palmitic acid", "Linoleic acid", "Linolenic acid", "Arachidonic acid"],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "Arachidonic acid (20:4) is a tetra-enoic fatty acid, meaning it contains four double bonds."
+  },
+  {
+    "question": "Arachidonic acid is biologically significant as a precursor for which important group of lipids?",
+    "options": ["Phosphoglycerides", "Prostaglandins", "Steroid hormones", "Bile acids"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Arachidonic acid serves as the vital precursor for the important group of lipids known as prostaglandins."
+  },
+  {
+    "question": "Essential fatty acids must be supplied in the diet because:",
+    "options": ["They are rapidly degraded in the stomach", "They are not synthesized in the human body", "They are highly toxic if produced internally", "They are the only source of energy for the brain"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Essential fatty acids (like linoleic and linolenic acid) cannot be synthesized by the body and therefore must be obtained through the diet."
+  },
+  {
+    "question": "Which molecule is considered the precursor of all phospholipids containing glycerol?",
+    "options": ["Sphingomyelin", "Cholesterol", "Phosphatidic acid", "Cardiolipin"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Phosphatidic acid serves as the fundamental precursor for all glycerol-containing phospholipids."
+  },
+  {
+    "question": "Lecithin, a major component of the cell membrane, is also known by which chemical name?",
+    "options": ["Phosphatidic acid", "Phosphatidylcholine", "Phosphatidylethanolamine", "Sphingomyelin"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Lecithin is another name for phosphatidylcholine, a phospholipid highly abundant in cell membranes, liver, and brain."
+  },
+  {
+    "question": "Hydrolysis of Cephalin (phosphatidylethanolamine) would NOT yield which of the following?",
+    "options": ["Glycerol", "Phosphoric acid", "Choline base", "Fatty acids"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Cephalin contains an ethanolamine base. Choline is found in Lecithin (phosphatidylcholine), not Cephalin."
+  },
+  {
+    "question": "What is the primary physiological role of Di-palmitoyl lecithin in the lungs?",
+    "options": ["It increases surface tension to keep alveoli open", "It acts as a lung surfactant to decrease surface tension", "It transports oxygen across the alveolar membrane", "It provides structural support to the lung parenchyma"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Di-palmitoyl lecithin acts as a lung surfactant, decreasing the surface tension in the alveoli to prevent their inner surfaces from adhering."
+  },
+  {
+    "question": "Which group of lipids is responsible for carrying fat-soluble vitamins (A, E, D, K) into the cells of the small intestine?",
+    "options": ["Dietary fats", "Steroid hormones", "Sphingolipids", "Glycolipids"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Dietary fat dissolves fat-soluble vitamins and acts as a carrier to assist their digestion and transport into intestinal cells."
+  },
+  {
+    "question": "Which of the following is considered a derived lipid?",
+    "options": ["Triglyceride", "Phosphatidylinositol", "Cholesterol", "Sphingomyelin"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Derived lipids are products of the hydrolysis of simple or compound lipids, or are associated with them in nature. Cholesterol and fatty acids are prime examples."
+  },
+  {
+    "question": "Cholesterol is structurally characterized as a molecule containing how many carbon atoms?",
+    "options": ["18", "20", "24", "27"],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "Cholesterol is a C27 molecule with a distinctive steroid nucleus and a free hydroxyl group at the C3 position."
+  },
+  {
+    "question": "In what form is cholesterol primarily stored within the cells?",
+    "options": ["Free cholesterol", "Cholesterol esters", "Bile acids", "Chylomicrons"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The cellular storage form of cholesterol is cholesterol esters, where the C3 hydroxyl group is esterified by a fatty acid."
+  },
+  {
+    "question": "What is the primary function of lipoproteins in the human body?",
+    "options": ["To store energy in adipose tissue", "To act as structural components of nerve cells", "To transport water-insoluble lipids through the aqueous plasma", "To emulsify dietary fats in the digestive tract"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Lipoproteins provide a transport mechanism for relatively water-insoluble lipids, moving them safely through the aqueous environment of the blood plasma."
+  },
+  {
+    "question": "How are membrane phospholipids organized within the cell membrane structure?",
+    "options": ["As a monolayer with hydrophobic heads facing outward", "As a bilayer with hydrophilic heads facing the aqueous interface", "As a bilayer with hydrophobic tails facing the aqueous interface", "As a random micelle structure embedded with proteins"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Membrane phospholipids are arranged as a bilayer where the hydrophilic phosphate heads face the aqueous environments (intra/extracellular) and the hydrophobic tails face inward."
+  },
+  {
+    "question": "Which of the following lipids plays a crucial role in modulating membrane fluidity?",
+    "options": ["Triglycerides", "Cholesterol", "Waxes", "Prostaglandins"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Cholesterol lies within the phospholipid bilayer with its polar head facing the aqueous interface, where it functions to modulate membrane fluidity."
+  },
+  {
+    "question": "Sphingolipids, such as sphingomyelin, are especially critical in the formation of membrane structures for which cell types?",
+    "options": ["Adipocytes and hepatocytes", "Erythrocytes and leukocytes", "Brain cells and nerve cells", "Muscle cells and osteocytes"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "While sphingolipids form membrane structures generally, they are particularly essential and abundant in the membranes of brain cells and nerve cells."
+  },
+  {
+    "question": "Which class of lipoproteins is NOT mentioned as one of the major members carrying lipids in plasma?",
+    "options": ["Chylomicrons", "VLDL", "Phosphatidylserine", "HDL"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Chylomicrons, VLDL, LDL, and HDL are the major lipoproteins. Phosphatidylserine is a membrane phospholipid (cephalin), not a lipoprotein."
+  },
+  {
+    "question": "Which of the following statements about the lipid classification is strictly correct?",
+    "options": ["Glycolipids contain glycerol as their alcohol base.", "Compound lipids only contain fatty acids and alcohols.", "Derived lipids include cholesterol and fatty acids.", "Simple lipids include lipoproteins and phospholipids."],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Derived lipids are associated with lipids in nature or are hydrolytic products, including fatty acids and cholesterol. Compound lipids have extra groups, simple lipids don't include lipoproteins, and glycolipids contain sphingosine, not glycerol."
+  },
+  {
+    "question": "Which of the following best describes the process of DNA replication?",
+    "options": ["It is a conservative process", "It is a semi-conservative process", "It is a dispersive process", "It involves only one DNA polymerase enzyme"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "DNA replication is described as a semi-conservative replication process, where the energy for the synthesis comes from the hydrolysis of phosphate groups."
+  },
+  {
+    "question": "During DNA replication, which enzyme is responsible for joining the discontinuous segments known as Okazaki fragments?",
+    "options": ["DNA polymerase", "Helicase", "DNA ligase", "Topo-iso-merase"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "DNA ligase is the enzyme that joins the discontinuous segments (Okazaki fragments) together on the lagging strand."
+  },
+  {
+    "question": "The copying process during which a DNA strand serves as a template for the synthesis of RNA is called:",
+    "options": ["Translation", "Replication", "Transcription", "Polymerization"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Transcription is the process where a DNA strand serves as a template to produce an RNA copy."
+  },
+  {
+    "question": "Which type of RNA is responsible for carrying the genetic codes from the DNA in the nucleus to the sites of protein synthesis in the cytoplasm?",
+    "options": ["tRNA", "rRNA", "mRNA", "snRNA"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Messenger RNA (mRNA) carries genetic codes from the DNA in the nucleus to the ribosomes in the cytoplasm for protein synthesis."
+  },
+  {
+    "question": "What is the characteristic tertiary structure of transfer RNA (tRNA)?",
+    "options": ["Double helix", "L-shaped", "Globular", "Beta-pleated sheet"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "tRNA has a unique tertiary structure that is L-shaped, allowing it to function effectively in translation."
+  },
+  {
+    "question": "A particular amino acid is attached to its corresponding tRNA molecule by which type of chemical linkage?",
+    "options": ["Peptide linkage", "Hydrogen bond", "Phosphodiester bond", "Ester linkage"],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "An amino acid is attached to the tRNA by an ester linkage involving the carboxyl group of the amino acid and the 3' oxygen of the tRNA hydroxyl group."
+  },
+  {
+    "question": "Where is the anticodon located on a transfer RNA (tRNA) molecule?",
+    "options": ["At the 5' end", "At the 3' end", "In the middle of the sequence", "Attached to the amino acid"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Each tRNA consists of sets of three bases called an anticodon located at its 3' end."
+  },
+  {
+    "question": "The genetic code consists of 64 triplets of nucleotides. How many of these codons represent specific amino acids?",
+    "options": ["20", "60", "61", "64"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Of the 64 codons, 61 represent amino acids, while the remaining three represent stop signals."
+  },
+  {
+    "question": "Which of the following codons functions as the start codon for protein synthesis?",
+    "options": ["UAA", "AUG", "UAG", "UGA"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The start codon is composed of the nucleotides AUG, which codes for the amino acid methionine."
+  },
+  {
+    "question": "Which of the following is a stop codon that triggers the termination of protein synthesis?",
+    "options": ["UAA", "AUG", "UAC", "UUC"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Termination of the growing polypeptide chain occurs when the ribosome encounters a stop codon like UAA, UAG, or UGA."
+  },
+  {
+    "question": "In the ribosome, which binding site is occupied by the tRNA carrying the chain of amino acids that has already been synthesized?",
+    "options": ["A site", "P site", "E site", "Catalytic site"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The P-site codon is occupied by peptidyl-tRNA, which carries the chain of amino acids that has already been synthesized."
+  },
+  {
+    "question": "What is a polysome?",
+    "options": ["A single ribosome translating multiple mRNAs", "A complex of mRNA and DNA", "A single mRNA being translated simultaneously by multiple ribosomes", "A cluster of inactive ribosomes in the cytoplasm"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "A single mRNA can be translated simultaneously by multiple ribosomes forming a complex called a polysome."
+  },
+  {
+    "question": "In eukaryotes, where does the process of translation primarily occur?",
+    "options": ["Nucleus", "Mitochondria", "Cytoplasm", "Lysosomes"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "In eukaryotes, translation occurs in the cytoplasm of the cell, where the ribosomes are located."
+  },
+  {
+    "question": "During the initiation of translation, the start codon (AUG) always codes for which amino acid?",
+    "options": ["Phenylalanine", "Methionine", "Serine", "Tyrosine"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The correct tRNA with the complementary anticodon binds to the start codon (AUG) and delivers the amino acid methionine."
+  },
+  {
+    "question": "Which enzymatic activity of the ribosome catalyzes the formation of the covalent peptide bond between two adjacent amino acids?",
+    "options": ["RNA polymerase", "DNA ligase", "Peptidyl transferase", "Aminoacyl-tRNA synthetase"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "The ribosome uses its peptidyl transferase enzymatic activity to catalyze the formation of the covalent peptide bond."
+  },
+  {
+    "question": "At what approximate rate does the ribosome add amino acids to the growing polypeptide chain during elongation?",
+    "options": ["1 amino acid per second", "15 amino acids per second", "50 amino acids per second", "100 amino acids per second"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The translation process continues with the ribosome adding up to 15 amino acids per second to the polypeptide chain."
+  },
+  {
+    "question": "What happens when the ribosome encounters a stop codon (UAA, UAG, or UGA) in the mRNA molecule?",
+    "options": ["A specific tRNA binds to it", "The ribosome reverses direction", "A release factor induces the release of the polypeptide chain", "A new start codon is generated"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "When a stop codon is encountered, no tRNA can recognize it, and a release factor induces the release of the complete polypeptide chain."
+  },
+  {
+    "question": "Which enzyme is primarily responsible for carrying out transcription in the nucleus of the cell?",
+    "options": ["DNA polymerase", "RNA polymerase", "Helicase", "Peptidyl transferase"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "During transcription, DNA is converted into an mRNA template molecule by enzymes known as RNA polymerases."
+  },
+  {
+    "question": "In DNA replication, the lagging strand is synthesized in which direction?",
+    "options": ["5' to 3'", "3' to 5'", "Both directions simultaneously", "It is not directional"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Another DNA polymerase binds to the lagging strand, which grows in the 3'-5' direction making discontinuous segments."
+  },
+  {
+    "question": "During transcription, a section of DNA encoding a protein is converted into a template molecule called:",
+    "options": ["rRNA", "tRNA", "mRNA", "cDNA"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "During transcription, a gene is converted into a template molecule called messenger RNA (mRNA)."
+  },
+  {
+    "question": "Which component of the ribosome binds an incoming aminoacyl-tRNA as directed by the current codon?",
+    "options": ["A site", "P site", "E site", "Small subunit alone"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "The A site binds an incoming aminoacyl-tRNA as directed by the codon currently occupying this site."
+  },
+  {
+    "question": "What provides the energy required for the synthesis of DNA during replication?",
+    "options": ["Hydrolysis of ATP only", "Hydrolysis of peptide bonds", "Hydrolysis of phosphate groups", "Oxidation of glucose"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "The process of DNA replication is semi-conservative, and the energy for the synthesis comes from the hydrolysis of phosphate groups."
+  },
+  {
+    "question": "The complementary sequence in tRNA that recognizes the mRNA codon is called the:",
+    "options": ["Codon", "Anticodon", "Promoter", "Terminator"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The complementary sequence of three bases located on the tRNA is called the anticodon."
+  },
+  {
+    "question": "If an mRNA codon for phenylalanine is 5'-UUC-3', what is the corresponding anticodon sequence on the tRNA?",
+    "options": ["3'-UUC-5'", "3'-AAG-5'", "5'-AAG-3'", "3'-TTC-5'"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The complementary sequence in tRNA for the mRNA codon 5'-UUC-3' is the anticodon 3'-AAG-5'."
+  },
+  {
+    "question": "Ribosomal RNA (rRNA) is transcribed from which specific region of DNA?",
+    "options": ["Transfer DNA (tDNA)", "Ribosomal DNA (rDNA)", "Messenger DNA (mDNA)", "Mitochondrial DNA (mtDNA)"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Ribosomal RNA is transcribed from ribosomal DNA (rDNA) before it binds to ribosomal proteins."
+  },
+  {
+    "question": "Which of the following best describes the role of enhancers in eukaryotic transcription?",
+    "options": ["They decrease the rate of transcription initiation", "They bind specific transcription factors to increase transcription rate", "They are always located within the core promoter region", "They act by removing introns from pre-mRNA"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Enhancers are special DNA sequences that contain response elements to bind specific transcription factors (activators), which increase the rate of initiation of transcription by RNA polymerase II."
+  },
+  {
+    "question": "Chromatin remodeling through histone acetylation specifically involves the modification of which amino acid residue?",
+    "options": ["Arginine", "Histidine", "Lysine", "Serine"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Chromatin is remodeled through acetylation of lysine residues at the amino terminus of histone proteins, which decreases the interaction of the histone with negatively charged DNA."
+  },
+  {
+    "question": "What is the primary effect of DNA methylation at CpG dinucleotides in a gene promoter?",
+    "options": ["It inhibits gene transcription", "It recruits RNA polymerase II", "It promotes histone acetylation", "It initiates mRNA splicing"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "DNA methylation of a gene promoter inhibits its transcription by preventing the contact of general transcription factors and recruiting histone deacetylase complexes."
+  },
+  {
+    "question": "Which of the following statements correctly distinguishes prokaryotic mRNA from eukaryotic mRNA?",
+    "options": ["Prokaryotic mRNA is extensively modified post-transcriptionally", "Eukaryotic mRNA is generally identical to its primary transcript", "Prokaryotic mRNA is generally identical to its primary transcript without extensive modifications", "Both undergo the exact same post-transcriptional modifications"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Prokaryotic mRNA is generally identical to its primary transcript, whereas eukaryotic mRNA is extensively modified both co- and post-transcriptionally."
+  },
+  {
+    "question": "During the post-transcriptional modification of transfer RNA (tRNA), which specific sequence is added to the 3'-terminal end?",
+    "options": ["Poly-A tail", "-CCA sequence", "7-methylguanosine", "TATA box"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "One of the post-transcriptional modifications of tRNA is the addition of a -CCA sequence to its 3'-terminal end."
+  },
+  {
+    "question": "What is the primary function of the 5' 'cap' added to eukaryotic mRNA?",
+    "options": ["To facilitate the removal of introns", "To terminate translation", "To stabilize the mRNA and permit initiation of translation", "To act as a binding site for release factors"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "The 7-methylguanosine cap helps stabilize the mRNA, prevents degradation, and permits the initiation of translation."
+  },
+  {
+    "question": "The poly-A tail of eukaryotic mRNA is added by which enzyme after transcription?",
+    "options": ["RNA polymerase II", "Polyadenylate polymerase", "Guanine-7-methyltransferase", "Spliceosome"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The poly-A tail is added after transcription by the nuclear enzyme polyadenylate polymerase, using ATP as the substrate."
+  },
+  {
+    "question": "The molecular complex responsible for removing introns and joining exons in eukaryotic pre-mRNA is called the:",
+    "options": ["Nucleosome", "Ribosome", "Spliceosome", "Proteasome"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "The process of removing introns and joining exons is called splicing, which is accomplished by a molecular complex known as the spliceosome."
+  },
+  {
+    "question": "Small nuclear ribonucleoprotein particles (snRNPs) that mediate splicing are rich in which nucleotide base?",
+    "options": ["Adenine", "Guanine", "Cytosine", "Uracil"],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "In association with proteins, uracil-rich small nuclear RNAs (snRNA) form snRNPs that mediate the splicing process."
+  },
+  {
+    "question": "During mRNA splicing, the excised intron is typically released in what specific structural form?",
+    "options": ["A linear double-strand", "A lariat", "A perfect circle", "A hairpin loop"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The excised intron is released as a lariat (a loop-like structure), which is typically degraded afterward."
+  },
+  {
+    "question": "Which mechanism allows a single gene to produce multiple variations of mRNA and diverse proteins in different tissues?",
+    "options": ["Alternative splicing", "Reverse transcription", "Histone acetylation", "DNA methylation"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Alternative splicing of pre-mRNA molecules allows some genes to be spliced in alternative ways, producing multiple variations of the mRNA and its protein product."
+  },
+  {
+    "question": "Reverse transcriptase is an enzyme that catalyzes which of the following processes?",
+    "options": ["Synthesis of RNA from a DNA template", "Synthesis of DNA from an RNA template", "Synthesis of protein from an mRNA template", "Degradation of viral DNA"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Reverse transcriptase uses viral RNA as a template for the synthesis of viral DNA during the viral life cycle."
+  },
+  {
+    "question": "Which eukaryotic enzyme possesses reverse transcription activity and functions to lengthen the ends of linear chromosomes?",
+    "options": ["DNA ligase", "Telomerase", "Helicase", "Topoisomerase"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Telomerase is an enzyme found in some eukaryotic cells that exhibits reverse transcription activity to lengthen the ends of linear chromosomes."
+  },
+  {
+    "question": "In the genetic code, a codon consists of how many nucleotide bases?",
+    "options": ["Two", "Three", "Four", "Six"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Each individual 'word' in the genetic code is called a codon and is composed of exactly three nucleotide bases."
+  },
+  {
+    "question": "How many total different combinations of codons exist in the genetic code?",
+    "options": ["20", "61", "64", "128"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Since the four nucleotide bases are taken three at a time, there are 4^3 = 64 different possible combinations of codons."
+  },
+  {
+    "question": "Which of the following triplets is NOT a termination (stop) codon?",
+    "options": ["UAA", "UAG", "UGA", "UGG"],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "UAA, UAG, and UGA are the three termination codons. UGG codes for the amino acid Tryptophan."
+  },
+  {
+    "question": "The characteristic of the genetic code where a particular codon always codes for the same amino acid is known as:",
+    "options": ["Universality", "Specificity", "Degeneracy", "Nonoverlapping"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Specificity (or unambiguity) means that a specific codon will always translate into the exact same amino acid."
+  },
+  {
+    "question": "The genetic code is described as 'degenerate'. What does this term mean?",
+    "options": ["The code loses stability over time", "A given amino acid may be specified by more than one codon", "Each codon specifies multiple amino acids", "The code is read with overlapping bases"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Degeneracy refers to the fact that while each codon specifies only one amino acid, a single amino acid can be encoded by multiple different codons."
+  },
+  {
+    "question": "If the serine codon UCA is mutated to UCU, but still codes for serine, this type of mutation is classified as:",
+    "options": ["Missense mutation", "Nonsense mutation", "Silent mutation", "Frame-shift mutation"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "A silent mutation occurs when a changed base in a codon still codes for the same amino acid, resulting in no change to the protein."
+  },
+  {
+    "question": "A mutation that changes a codon specifying an amino acid into a termination codon is called a:",
+    "options": ["Silent mutation", "Missense mutation", "Nonsense mutation", "Splice site mutation"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "The creation of a termination codon at an inappropriate place is called a nonsense mutation, leading to a truncated protein."
+  },
+  {
+    "question": "Which type of point mutation results in the substitution of an incorrect amino acid into the polypeptide chain?",
+    "options": ["Silent mutation", "Nonsense mutation", "Missense mutation", "Trinucleotide expansion"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "A missense mutation occurs when a changed base alters the codon so that it codes for a different, incorrect amino acid."
+  },
+  {
+    "question": "What type of mutation occurs when one or two nucleotides are deleted from or added to the coding region of a gene?",
+    "options": ["Point mutation", "Frame-shift mutation", "Silent mutation", "Nonsense mutation"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Adding or deleting one or two nucleotides alters the reading frame, resulting in a frame-shift mutation that changes the subsequent amino acid sequence."
+  },
+  {
+    "question": "Which of the following acts as the minimal requirement for the recruitment of RNA polymerase II to the promoter?",
+    "options": ["Enhancers", "Silencers", "General transcription factors", "Spliceosomes"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "General transcription factors (TFs) are the minimal requirements for the recognition of the promoter and the recruitment of RNA polymerase II."
+  },
+  {
+    "question": "During post-transcriptional modification, rRNAs are processed from long precursor molecules called:",
+    "options": ["Pre-mRNAs", "Pre-tRNAs", "Pre-ribosomal RNAs", "Primary snRNAs"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "rRNAs of both prokaryotic and eukaryotic cells are generated from long precursor molecules called pre-ribosomal RNAs, which are cleaved to yield intermediate-sized pieces."
+  },
+  {
+    "question": "What is the primary characteristic of the genetic code being 'commaless'?",
+    "options": ["It lacks termination codons", "It is read as a continuous sequence of bases from a fixed starting point", "It overlaps with adjacent genes", "It utilizes only three types of nucleotide bases"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "A commaless genetic code is read from a fixed starting point as a continuous sequence of bases, taken three at a time, without any 'punctuation' between codons."
+  },
+  {
+    "question": "Proteins account for approximately what percentage of the dry weight of most cells?",
+    "options": ["20%", "50%", "70%", "90%"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Proteins are the most abundant molecules in living systems, making up about 50% of the dry weight of most cells."
+  },
+  {
+    "question": "Which of the following amino acids is an exception to the general structure because it contains a secondary amino group?",
+    "options": ["Glycine", "Alanine", "Proline", "Valine"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Each amino acid has a primary amino group, except for proline, which has a secondary amino group."
+  },
+  {
+    "question": "At physiologic pH (approximately 7.4), what is the typical state of the carboxyl and amino groups of an amino acid?",
+    "options": ["Carboxyl is protonated (-COOH) and amino is deprotonated (-NH2)", "Carboxyl is dissociated (-COO-) and amino is protonated (-NH3+)", "Both groups are completely uncharged", "Both groups are negatively charged"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "At physiologic pH, the carboxyl group is dissociated forming a negatively charged ion (-COO-), and the amino group is protonated (-NH3+)."
+  },
+  {
+    "question": "Which amino acid is optically inactive because its alpha-carbon is attached to two hydrogen substituents?",
+    "options": ["Alanine", "Serine", "Glycine", "Cysteine"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Glycine is the exception to optical activity because its alpha-carbon has two hydrogen substituents, meaning it does not have an asymmetric center."
+  },
+  {
+    "question": "All amino acids naturally found in mammalian proteins belong to which stereoisomeric configuration?",
+    "options": ["D-configuration", "L-configuration", "A racemic mixture of D and L", "Meso-configuration"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "All amino acids found in proteins are of the L-configuration, while D-amino acids are found in some antibiotics and cell walls."
+  },
+  {
+    "question": "In an acidic medium (high H+ concentration), an amino acid acts as a base. In which direction will it migrate in an electric field?",
+    "options": ["Towards the anode", "Towards the cathode", "It will not migrate", "It migrates to both poles simultaneously"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "In acidic media, the amino group accepts a proton and becomes positively charged, causing the amino acid to migrate to the cathode in an electric field."
+  },
+  {
+    "question": "What happens to an amino acid at its specific isoelectric point (pI)?",
+    "options": ["It carries a net positive charge", "It carries a net negative charge", "It carries a zero net charge and does not move in an electrical field", "It loses its buffering capacity"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "At the isoelectric point, the amino acid carries zero net charge (number of positive charges equals negative charges) and does not move in an electrical field."
+  },
+  {
+    "question": "Which of the following amino acids contains a sulfur atom (SH group) in its side chain?",
+    "options": ["Serine", "Cysteine", "Asparagine", "Histidine"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Cysteine and Methionine are the amino acids that contain sulfur in their side chains."
+  },
+  {
+    "question": "Which basic amino acid is characterized by the presence of a guanidino group in its side chain?",
+    "options": ["Lysine", "Arginine", "Histidine", "Glutamine"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Arginine is a basic amino acid that contains a distinctive guanidino group in its side chain."
+  },
+  {
+    "question": "Tryptophan is classified as a cyclic amino acid because its side chain contains which of the following structures?",
+    "options": ["Imidazole ring", "Indole ring", "Aromatic benzene ring only", "Imino ring"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Tryptophan contains an indole ring, distinguishing it among the cyclic/aromatic amino acids."
+  },
+  {
+    "question": "Based on polarity at physiological pH, which of the following amino acids has a non-polar side chain?",
+    "options": ["Tyrosine", "Serine", "Valine", "Aspartic acid"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Valine, along with Glycine, Alanine, Leucine, Isoleucine, Phenylalanine, Methionine, Proline, and Tryptophan, has a non-polar side chain that does not interact with water."
+  },
+  {
+    "question": "Which two amino acids have negatively charged (acidic) R groups at physiological pH?",
+    "options": ["Lysine and Arginine", "Aspartic acid and Glutamic acid", "Asparagine and Glutamine", "Serine and Threonine"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Aspartic acid and Glutamic acid are classified as polar amino acids with negatively charged (acidic) radicals."
+  },
+  {
+    "question": "Which of the following is considered a 'semi-essential' amino acid, meaning it is synthesized in the body but in quantities often less than required, especially for growing children?",
+    "options": ["Leucine", "Valine", "Histidine", "Methionine"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Histidine and Arginine are semi-essential amino acids because they are synthesized in the body but in quantities less than the requirement, particularly for growth."
+  },
+  {
+    "question": "Proteins of high biological value, which contain all 10 essential amino acids, are known as:",
+    "options": ["Incomplete proteins", "Complete proteins", "Oligopeptides", "Derived proteins"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Proteins that contain all the essential amino acids are called complete proteins, commonly found in animal products and soybeans."
+  },
+  {
+    "question": "Chemically, the formation of a peptide bond between two amino acids is what type of reaction?",
+    "options": ["Hydrolysis", "Oxidation", "Condensation (dehydration)", "Reduction"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Peptide bond formation is a condensation (dehydration) reaction between the alpha-carboxyl group of one amino acid and the alpha-amino group of another."
+  },
+  {
+    "question": "A polymer formed by the condensation of 11 to 100 amino acid units is properly classified as a:",
+    "options": ["Dipeptide", "Oligopeptide", "Polypeptide", "Complete protein"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Polypeptides are formed by the condensation of 11 to 100 amino acid units, while oligopeptides are 2-10 units, and proteins are more than 100 units."
+  },
+  {
+    "question": "When naming or writing the structure of a peptide, the convention is to always start from the:",
+    "options": ["C-terminus to N-terminus", "N-terminus to C-terminus", "Largest amino acid to the smallest", "Hydrophobic end to the hydrophilic end"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Peptide structures are always written and numbered starting from the N-terminus (unreacted amino group) to the C-terminus (unreacted carboxylate group)."
+  },
+  {
+    "question": "Which of the following describes a physical property of the peptide bond?",
+    "options": ["It allows free rotation of groups around the bond", "It is highly flexible and uncharged", "It is rigid with no freedom of rotation", "It carries a strong positive charge at physiological pH"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "The peptide bond is rigid, meaning there is no freedom of rotation of groups around the bond due to its partial double bond character."
+  },
+  {
+    "question": "Due to steric repulsive forces between the side chains of amino acids, which conformation of the peptide bond is predominantly found in proteins?",
+    "options": ["Cis-configuration", "Trans-configuration", "Meso-configuration", "Random coil configuration"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Trans peptide bonds are the predominant conformation found in proteins because they minimize steric repulsive forces between bulky side chains."
+  },
+  {
+    "question": "How can peptide bonds be fractured or cleaved in vitro (in a laboratory setting)?",
+    "options": ["By mild agitation in water", "By adding physiological buffers", "By using strong acid or base with high temperature", "Peptide bonds cannot be broken once formed"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Peptide bonds are resistant to denaturation and require strong acid or base with high temperature to be fractured in vitro."
+  },
+  {
+    "question": "Which important tripeptide acts as a reducing agent in red blood cells to protect their walls against toxic hydrogen peroxide?",
+    "options": ["Endorphin", "Oxytocin", "Glutathione", "Vasopressin"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Glutathione is an important tripeptide that acts as a reducing agent, converting toxic H2O2 into H2O to protect red blood cells."
+  },
+  {
+    "question": "Endorphins are natural painkillers produced in the body. How many amino acid residues make up these specific chemical signaling peptides?",
+    "options": ["Three", "Five", "Nine", "More than fifty"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Endorphins are examples of chemical signaling peptides that contain five amino acids and function as natural painkillers."
+  },
+  {
+    "question": "Oxytocin, a peptide that stimulates uterine contractions, consists of how many amino acid residues?",
+    "options": ["Three", "Five", "Nine", "Eleven"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Oxytocin is produced by the pituitary gland and contains nine amino acid residues."
+  },
+  {
+    "question": "Which of the following amino acids contains a polar, uncharged side chain?",
+    "options": ["Leucine", "Glutamine", "Lysine", "Phenylalanine"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Glutamine, along with Cysteine, Serine, Threonine, Tyrosine, and Asparagine, is classified as having a polar but uncharged side chain."
+  },
+  {
+    "question": "Which characteristic best explains why amino acids are effective biological buffers?",
+    "options": ["They are completely insoluble in water.", "They act purely as strong acids.", "Their amphoteric property allows them to act as both an acid and a base.", "They exist solely as cations at all physiological pH levels."],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Amino acids are effective buffers because their structure allows them to be amphoteric, meaning they can act as both an acid and a base to maintain system pH."
+  },
+  {
+    "question": "Which of the following bonds is formed by a condensation reaction where amino acids lose one water molecule?",
+    "options": ["Disulfide bond", "Peptide bond", "Hydrogen bond", "Ionic bond"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Proteins form by amino acids undergoing condensation reactions to attach to one another with a peptide bond."
+  },
+  {
+    "question": "Which of the following describes the formation of a disulfide bond?",
+    "options": ["Covalent interaction between two molecules of cysteine", "Non-covalent interaction between two molecules of methionine", "Hydrogen bond between serine and threonine", "Ionic bond between aspartate and lysine"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Disulfide bonds are formed by covalent interactions between two molecules of cysteine to form cystine."
+  },
+  {
+    "question": "What is considered the most important noncovalent bond that drives the process of protein folding?",
+    "options": ["Hydrogen bonds", "Electrostatic bonds", "Hydrophobic interactions", "Van der Waals forces"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Hydrophobic interactions are the most important noncovalent bond that drives the process of protein folding."
+  },
+  {
+    "question": "The primary structure of a protein is defined as:",
+    "options": ["The three-dimensional arrangement of all atoms", "The sequence, number, and arrangement of amino acid residues", "The folding into repeating structures like alpha-helices", "The arrangement of multiple polypeptide subunits"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Primary structure of protein is the sequence (number, type and arrangement) of amino acid residues in the peptide chain."
+  },
+  {
+    "question": "In an alpha-helix, the carbonyl group (C=O) of one amino acid is hydrogen bonded to the amino H (N-H) of an amino acid that is:",
+    "options": ["Two residues down the chain", "Three residues down the chain", "Four residues down the chain", "Five residues down the chain"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "In an alpha helix, the carbonyl of one amino acid is hydrogen bonded to the amino H of an amino acid that is four down the chain."
+  },
+  {
+    "question": "Which of the following pairs of amino acids are known as 'helix breakers'?",
+    "options": ["Alanine and Leucine", "Proline and Glycine", "Lysine and Arginine", "Serine and Threonine"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Proline and glycine are known to destabilize the alpha-helix and act as helix breakers."
+  },
+  {
+    "question": "Beta-turns are generally composed of how many amino acid residues?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Beta-turns are generally composed of four amino acid residues, enabling the polypeptide chains to reverse their direction."
+  },
+  {
+    "question": "Tertiary structure is primarily held together by interactions between:",
+    "options": ["The peptide backbone elements only", "The functional groups of the R-groups of residues", "Multiple separate polypeptide chains", "Carbohydrate units attached to the protein"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Tertiary structure is held together by interactions between the functional groups of the R-groups of residues brought together by folding."
+  },
+  {
+    "question": "Quaternary structure exists only for proteins that:",
+    "options": ["Contain disulfide bonds", "Are purely fibrous in nature", "Are formed from more than one polypeptide chain (subunit)", "Have both alpha-helices and beta-sheets"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Quaternary structure does exist only for proteins formed from more than one subunit (more than one polypeptide chain)."
+  },
+  {
+    "question": "What is the principal driving force of the protein folding process?",
+    "options": ["Formation of interchain disulfide bonds", "Association of hydrophobic R groups to bury them in the interior", "Electrostatic repulsion between similarly charged groups", "Covalent bonding between carbohydrate and protein"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The principal driving force of the folding process is the association of hydrophobic R groups so as to bury hydrophobic amino acids in the interior part of proteins."
+  },
+  {
+    "question": "Which proteins assist in the folding process of other proteins inside the cell?",
+    "options": ["Proteases", "Chaperones (Heat shock proteins)", "Immunoglobulins", "Cytochromes"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Chaperones (Heat shock proteins) are proteins that assist in folding."
+  },
+  {
+    "question": "Which of the following is an example of a simple protein (homoprotein)?",
+    "options": ["Hemoglobin", "Plasma albumin", "Immunoglobulin", "Glycophorin"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Simple proteins are made up of only amino acids. Examples are plasma albumin, collagen, and keratin."
+  },
+  {
+    "question": "Glycoproteins are complex proteins that covalently bind to which type of molecule?",
+    "options": ["Lipids", "Nucleic acids", "Carbohydrate units", "Heme groups"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Glycoproteins are proteins that covalently bind to one or more carbohydrate units to the polypeptide backbone."
+  },
+  {
+    "question": "Hemoglobin and myoglobin are classified as which type of complex protein?",
+    "options": ["Phosphoproteins", "Glycoproteins", "Chromoproteins", "Lipoproteins"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Hemoglobin and myoglobin are typical examples of chromoproteins, which contain colored prosthetic groups."
+  },
+  {
+    "question": "Why are fibrous proteins generally insoluble in water?",
+    "options": ["They lack peptide bonds.", "They contain many hydrophobic amino acids internally and on their surface.", "They are heavily glycosylated.", "They consist entirely of random coils."],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Fibrous proteins are insoluble in water as they contain, both internally and on their surface, many hydrophobic amino acids."
+  },
+  {
+    "question": "Which of the following sets of amino acids is primarily found in collagen?",
+    "options": ["Glycine, proline, alanine, and hydroxyproline", "Tryptophan, tyrosine, phenylalanine, and histidine", "Glutamate, aspartate, lysine, and arginine", "Methionine, cysteine, serine, and threonine"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Collagen primarily contains the amino acids glycine, proline, alanine, and hydroxyproline."
+  },
+  {
+    "question": "The stiffness and flexibility of alpha-keratins (found in hair and nails) is primarily a consequence of the number of:",
+    "options": ["Hydrogen bonds", "Disulfide bonds", "Peptide bonds", "Ionic bonds"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The different stiffness and flexibility of these structures is a consequence of the number of disulfide bonds."
+  },
+  {
+    "question": "Which class of proteins typically has a compact, spherical structure and is generally soluble in water?",
+    "options": ["Fibrous proteins", "Globular proteins", "Structural proteins", "All complex proteins"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Globular proteins have a compact and spherical structure and are generally soluble in water."
+  },
+  {
+    "question": "Which globular protein is responsible for carrying free fatty acids, bilirubin, and certain medications in the blood?",
+    "options": ["Hemoglobin", "Transferrin", "Albumin", "Ferritin"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Albumin carries free fatty acids, bilirubin, thyroid hormones, and certain medications such as aspirin and penicillin, in the blood."
+  },
+  {
+    "question": "Ferritin is classified biologically as a:",
+    "options": ["Transport protein", "Storage protein", "Biochemical catalyst", "Mechanical support protein"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Ferritin is a storage protein that stores iron intracellularly in a non-toxic form."
+  },
+  {
+    "question": "Antibodies (immunoglobulins) consist of four polypeptide chains held together primarily by:",
+    "options": ["Ester bonds", "Disulfide bonds and intermolecular forces", "Phosphodiester bonds", "Glycosidic linkages"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Antibodies consist of four polypeptide chains held together by disulfide bonds and intermolecular forces."
+  },
+  {
+    "question": "Protein denaturation involves the loss of secondary, tertiary, and quaternary structures. Which structural level remains unaffected?",
+    "options": ["Primary structure", "Secondary structure", "Tertiary structure", "Quaternary structure"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Denaturation is not accompanied by hydrolysis of peptide bonds (which form the primary structure), while non-covalent bonds are disrupted."
+  },
+  {
+    "question": "What is a direct consequence of protein denaturation?",
+    "options": ["Increase in biological activity", "Increase in solubility", "Loss of biological function and decreased solubility", "Formation of new disulfide bonds"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Denatured proteins lose their 3D structure and therefore cannot function, and they typically exhibit a decrease in solubility and precipitate from solution."
+  },
+  {
+    "question": "Which chemical agent is used to break (reduce) disulfide bonds in proteins?",
+    "options": ["Silver nitrate", "Mercaptoethanol", "Hydrogen peroxide", "Lactic acid"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Disulfide bonds can be broken by reducing agents such as mercaptoethanol."
+  },
+  {
+    "question": "Applying heat above 50°C to a protein primarily disrupts which forces?",
+    "options": ["Peptide bonds and disulfide bonds", "Hydrogen bonds and hydrophobic interactions", "Only salt bridges", "Only covalent bonds"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Heat above 50°C disrupts hydrogen bonds and hydrophobic interactions."
+  },
+  {
+    "question": "Which of the following is NOT considered a primary function of carbohydrates in the human body?",
+    "options": ["Providing a skeletal framework to cells and tissues", "Serving as the main source of energy", "Catalyzing major biochemical reactions as enzymes", "Serving as essential building blocks for RNA and DNA"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Carbohydrates serve primarily as an energy source, provide a structural framework, and act as building blocks for RNA, DNA, and ATP. They do not act as enzymes to catalyze biochemical reactions."
+  },
+  {
+    "question": "Energy production from carbohydrates yields approximately how many kcal/g?",
+    "options": ["2 kcal/g", "4 kcal/g", "7 kcal/g", "9 kcal/g"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Carbohydrates are the main sources of energy in the body, and energy production from them will be 4 kcal/g."
+  },
+  {
+    "question": "Which of the following monosaccharides is classified as a keto hexose?",
+    "options": ["Glucose", "Galactose", "Fructose", "Mannose"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Fructose is a keto hexose, possessing a ketone group usually at C2, whereas glucose, galactose, and mannose are aldo hexoses."
+  },
+  {
+    "question": "Glucose and mannose are epimers that differ in configuration only with respect to which carbon atom?",
+    "options": ["C1", "C2", "C3", "C4"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Glucose and mannose are an epimeric pair which differ only with respect to the configuration at C2."
+  },
+  {
+    "question": "Which of the following sugars represents the 4th epimer (C4 epimer) of glucose?",
+    "options": ["Fructose", "Ribose", "Mannose", "Galactose"],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "Galactose is the 4th epimer of glucose, meaning they differ in spatial configuration only at carbon atom number 4."
+  },
+  {
+    "question": "The D and L isomerism of glucose is determined by the configuration of the H and OH groups around which specific carbon atom?",
+    "options": ["The anomeric carbon (C1)", "The second carbon (C2)", "The penultimate carbon (C5)", "The final carbon (C6)"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "With reference to the penultimate carbon atom (i.e. C5 in the case of glucose), the configuration of H and OH groups is changed to produce the D and L mirror images."
+  },
+  {
+    "question": "The interconversion of alpha and beta anomeric forms of D-glucose through its open-chain form in solution is known as:",
+    "options": ["Epimerization", "Mutarotation", "Polymerization", "Hydrolysis"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Cyclic sugars show mutarotation as alpha and beta anomeric forms interconvert through the open chain."
+  },
+  {
+    "question": "Which monosaccharide is notably present in semen, serving as a primary nutrient for sperms?",
+    "options": ["Glucose", "Maltose", "Fructose", "Galactose"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Fructose is found in fruits, honey, body, and semen, where it serves as a nutrient for sperms."
+  },
+  {
+    "question": "When the aldehyde group of glucose is protected and the molecule is oxidized so that the last carbon becomes a COOH group, the resulting product is:",
+    "options": ["Gluconic acid", "Sorbitol", "Glucuronic acid", "Glucosamine"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "When the aldehyde group is protected and the molecule is oxidized, the last carbon becomes a COOH group to produce uronic acid; thus glucose is oxidized to Glucuronic acid."
+  },
+  {
+    "question": "The reduction of the carbonyl group of D-glucose yields which of the following sugar alcohols?",
+    "options": ["Mannitol", "Ribitol", "Sorbitol (Glucitol)", "Inositol"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "The reduction of monosaccharides involves the carbonyl group and produces sugar alcohols; D-glucose gives D-glucitol, also called sorbitol."
+  },
+  {
+    "question": "Which of the following is an abundant amino sugar that helps in rebuilding cartilage and connective tissue?",
+    "options": ["Deoxyribose", "beta-D-glucosamine", "Glucuronic acid", "Iduronic acid"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "One of the most abundant amino sugars is beta-D-glucosamine, which helps in rebuilding cartilage, joint function, and connective tissue."
+  },
+  {
+    "question": "Which hormone is secreted by the pancreas when blood glucose levels are low, stimulating the release of glucose from storage?",
+    "options": ["Insulin", "Glucagon", "Epinephrine", "Thyroxine"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Glucagon is secreted when blood glucose is low and helps in the release of glucose from storage by stimulating the breakdown of glycogen."
+  },
+  {
+    "question": "Which of the following is classified as a non-reducing disaccharide?",
+    "options": ["Maltose", "Lactose", "Sucrose", "Isomaltose"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Sucrose is a non-reducing disaccharide without a free aldehyde or ketone group, distinguishing it from reducing sugars like maltose and lactose."
+  },
+  {
+    "question": "Sucrose, commonly known as cane sugar, is composed of which two monosaccharide units?",
+    "options": ["Two molecules of glucose", "Glucose and Galactose", "Glucose and Fructose", "Fructose and Galactose"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Sucrose contains glucose and fructose. The linkage involves the first carbon of glucose and the second carbon of fructose."
+  },
+  {
+    "question": "What type of glycosidic linkage joins the monosaccharides in lactose?",
+    "options": ["alpha-1,4 linkage", "beta-1,4 linkage", "alpha-1,6 linkage", "alpha-1,2 linkage"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "In lactose, the anomeric carbon atom of beta-galactose is attached to the 4th hydroxyl group of glucose through a beta-1,4 glycosidic linkage."
+  },
+  {
+    "question": "Which homopolysaccharide makes up the supporting tissues of plants and cannot be digested by humans due to the lack of the appropriate enzyme?",
+    "options": ["Starch", "Glycogen", "Cellulose", "Inulin"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Cellulose is the supporting tissue of plants made up of glucose units with beta-1,4 linkages. This enzyme (cellobiase) is absent in the human digestive system, so cellulose cannot be digested."
+  },
+  {
+    "question": "Amylopectin is a highly branched component of starch. The branching points are created by which type of glycosidic linkage?",
+    "options": ["alpha-1,4 linkage", "beta-1,4 linkage", "alpha-1,6 linkage", "beta-1,6 linkage"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Amylopectin is highly branched, and the branching points are made by alpha-1,6 linkages, similar to isomaltose."
+  },
+  {
+    "question": "What is the primary reserve carbohydrate in animals, stored mainly in the liver and muscles?",
+    "options": ["Amylose", "Amylopectin", "Glycogen", "Dextrin"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Glycogen is the reserve carbohydrate in animals and is stored in the liver and muscle."
+  },
+  {
+    "question": "Inulin is a long-chain homoglycan clinically used to find renal clearance values. It is composed of repeating units of:",
+    "options": ["D-glucose", "D-fructose", "D-galactose", "D-mannose"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Inulin is a long chain homoglycan composed of D-fructose units with repeating beta-1,2 linkages."
+  },
+  {
+    "question": "Which of the following heteropolysaccharides contains repeating units of sulfated glucosamine and L-iduronic acid, and functions as an anticoagulant?",
+    "options": ["Hyaluronic acid", "Chondroitin-4-sulfate", "Heparin", "Inulin"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Heparin contains repeating units of sulphated glucosamine and alpha-1,4-L-iduronic acid, and it is a widely used anticoagulant."
+  },
+  {
+    "question": "Hyaluronic acid is present as a ground substance in connective tissue and serves as a lubricant in joints. It is composed of repeating units of N-acetylglucosamine and:",
+    "options": ["Glucuronic acid", "Iduronic acid", "Galactosamine", "Sulfated glucosamine"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Hyaluronate is made up of repeating units of sugar derivatives glucuronate (glucuronic acid) and N-acetylglucosamine."
+  },
+  {
+    "question": "During the digestion of carbohydrates, practically NO action occurs in which part of the gastrointestinal tract due to the inactivation of enzymes in acidic media?",
+    "options": ["Mouth", "Stomach", "Duodenum", "Small Intestine"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Practically no carbohydrate digestion occurs in the stomach because salivary amylase is inactivated in the acidic media and no carbohydrate splitting enzymes are available in gastric juice."
+  },
+  {
+    "question": "Which enzyme acts in the mouth to begin breaking down dietary starch and glycogen by hydrolyzing random alpha(1-4) bonds?",
+    "options": ["Pancreatic amylase", "Salivary amylase", "Sucrase", "Oligo-1,6-glucosidase"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The enzyme salivary amylase acts briefly in the mouth on dietary starch and glycogen, hydrolyzing random alpha(1-4) bonds."
+  },
+  {
+    "question": "In mucoproteins, mucopolysaccharides can be linked to proteins via O-glycosidic bonds by utilizing the hydroxyl (OH) groups of which amino acids?",
+    "options": ["Serine and threonine", "Asparagine and glutamine", "Lysine and arginine", "Cysteine and methionine"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Mucopolysaccharides are linked to proteins by O-glycosidic bonds using the OH groups of serine and threonine."
+  },
+  {
+    "question": "Isomaltose is a reducing sugar produced by the partial hydrolysis of glycogen and starch. It consists of two glucose units combined by which linkage?",
+    "options": ["alpha-1,4 linkage", "beta-1,4 linkage", "alpha-1,6 linkage", "beta-1,2 linkage"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Isomaltose contains 2 glucose units combined in an alpha-1,6 linkage, where the first carbon of one glucose is attached to the sixth carbon of another."
+  }
+]

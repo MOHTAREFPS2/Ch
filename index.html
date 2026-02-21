@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>اختبار الكيمياء الحيوية - الأحماض النووية</title>
+    <style>
+        :root {
+            --primary-color: #0d9488; /* لون طبي مريح (Teal) */
+            --primary-hover: #0f766e;
+            --bg-color: #f0fdfa;
+            --text-main: #1e293b;
+            --card-bg: #ffffff;
+            --correct-bg: #dcfce7;
+            --correct-text: #166534;
+            --wrong-bg: #fee2e2;
+            --wrong-text: #991b1b;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 0;
+            line-height: 1.7;
+        }
+
+        .header-section {
+            background: linear-gradient(135deg, var(--primary-color), #0369a1);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            margin-bottom: 40px;
+        }
+
+        .header-section h1 {
+            margin: 0;
+            font-size: 28px;
+            letter-spacing: 1px;
+        }
+
+        .header-section p {
+            margin: 10px 0 0 0;
+            font-size: 18px;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .question-card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05);
+            border-right: 6px solid var(--primary-color);
+            transition: transform 0.2s ease;
+        }
+
+        .question-card:hover {
+            transform: translateY(-2px);
+        }
+
+        .question-title {
+            font-size: 19px;
+            font-weight: bold;
+            color: #334155;
+            margin-top: 0;
+            margin-bottom: 20px;
+        }
+
+        .options-list {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 20px 0;
+        }
+
+        .options-list li {
+            margin-bottom: 12px;
+        }
+
+        .option-label {
+            display: flex;
+            align-items: center;
+            padding: 12px 15px;
+            background-color: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+        }
+
+        .option-label:hover {
+            background-color: #f1f5f9;
+            border-color: #cbd5e1;
+        }
+
+        input[type="radio"] {
+            margin-left: 15px;
+            transform: scale(1.3);
+            accent-color: var(--primary-color);
+            cursor: pointer;
+        }
+
+        .btn-check {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+            width: 100%;
+        }
+
+        .btn-check:hover {
+            background-color: var(--primary-hover);
+        }
+
+        .btn-check:disabled {
+            background-color: #94a3b8;
+            cursor: not-allowed;
+        }
+
+        .feedback-container {
+            margin-top: 20px;
+            border-radius: 8px;
+            display: none;
+            animation: fadeIn 0.4s ease;
+        }
+
+        .status-message {
+            padding: 15px;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .status-correct {
+            background-color: var(--correct-bg);
+            color: var(--correct-text);
+            border: 1px solid #bbf7d0;
+        }
+
+        .status-wrong {
+            background-color: var(--wrong-bg);
+            color: var(--wrong-text);
+            border: 1px solid #fecaca;
+        }
+
+        .explanation-text {
+            margin-top: 15px;
+            padding: 15px;
+            background-color: #f1f5f9;
+            border-right: 4px solid #64748b;
+            border-radius: 6px;
+            color: #334155;
+            display: none;
+        }
+
+        .loading-error {
+            text-align: center;
+            color: var(--wrong-text);
+            font-weight: bold;
+            padding: 40px;
+            background: white;
+            border-radius: 8px;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header-section">
+        <h1>اختبار المراجعة الشاملة - الكيمياء الحيوية</h1>
+        <p>📝</p>
+    </header>
+
+    <main class="container" id="quiz-container">
+        </main>
+
+    <script>
+        // دالة جلب البيانات من ملف questions.json
+        fetch('questions.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('حدث مشكلة في جلب الملف');
+                }
+                return response.json();
+            })
+            .then(data => renderQuestions(data))
+            .catch(error => {
+                const container = document.getElementById('quiz-container');
+                container.innerHTML = `
+                    <div class="loading-error">
+                        <p>عذراً، لم يتم العثور على ملف questions.json أو حدث خطأ في قراءته.</p>
+                        <p>تأكد من تشغيل الصفحة عبر خادم محلي (Live Server) وأن الملف موجود في نفس المجلد.</p>
+                    </div>`;
+                console.error(error);
+            });
+
+        // دالة بناء وتنسيق الأسئلة
+        function renderQuestions(questions) {
+            const container = document.getElementById('quiz-container');
+            const optionLetters = ['A', 'B', 'C', 'D'];
+
+            questions.forEach((q, index) => {
+                const qCard = document.createElement('div');
+                qCard.className = 'question-card';
+
+                // عنوان السؤال
+                const qTitle = document.createElement('p');
+                qTitle.className = 'question-title';
+                qTitle.innerText = `سؤال ${index + 1}: ${q.question}`;
+                qCard.appendChild(qTitle);
+
+                // قائمة الخيارات
+                const optionsList = document.createElement('ul');
+                optionsList.className = 'options-list';
+
+                q.options.forEach((optText, optIndex) => {
+                    const li = document.createElement('li');
+                    const label = document.createElement('label');
+                    label.className = 'option-label';
+                    
+                    const radio = document.createElement('input');
+                    radio.type = 'radio';
+                    radio.name = `question_${index}`;
+                    radio.value = optionLetters[optIndex];
+
+                    label.appendChild(radio);
+                    
+                    const textNode = document.createTextNode(`${optionLetters[optIndex]}) ${optText}`);
+                    label.appendChild(textNode);
+                    
+                    li.appendChild(label);
+                    optionsList.appendChild(li);
+                });
+                qCard.appendChild(optionsList);
+
+                // زر التحقق
+                const checkBtn = document.createElement('button');
+                checkBtn.className = 'btn-check';
+                checkBtn.innerText = 'التحقق من الإجابة';
+                qCard.appendChild(checkBtn);
+
+                // قسم التغذية الراجعة (النتيجة والتوضيح)
+                const feedbackContainer = document.createElement('div');
+                feedbackContainer.className = 'feedback-container';
+
+                const statusMessage = document.createElement('div');
+                statusMessage.className = 'status-message';
+                feedbackContainer.appendChild(statusMessage);
+
+                const explanationText = document.createElement('div');
+                explanationText.className = 'explanation-text';
+                explanationText.innerHTML = `<b>التوضيح العلمي:</b> <br> ${q.explanation}`;
+                feedbackContainer.appendChild(explanationText);
+
+                qCard.appendChild(feedbackContainer);
+
+                // برمجة منطق التحقق
+                checkBtn.onclick = () => {
+                    const selectedOption = document.querySelector(`input[name="question_${index}"]:checked`);
+                    
+                    if (!selectedOption) {
+                        alert('يرجى تحديد إجابة أولاً!');
+                        return;
+                    }
+
+                    // إظهار قسم النتيجة
+                    feedbackContainer.style.display = 'block';
+
+                    if (selectedOption.value === q.answer) {
+                        // في حال الإجابة الصحيحة
+                        statusMessage.className = 'status-message status-correct';
+                        statusMessage.innerText = '✍️✅';
+                        explanationText.style.display = 'none'; // إخفاء التوضيح
+                        
+                        // تعطيل الزر والخيارات لمنع التغيير بعد الإجابة الصحيحة
+                        checkBtn.disabled = true;
+                        const radios = document.querySelectorAll(`input[name="question_${index}"]`);
+                        radios.forEach(r => r.disabled = true);
+                        
+                    } else {
+                        // في حال الإجابة الخاطئة
+                        statusMessage.className = 'status-message status-wrong';
+                        statusMessage.innerHTML = `الإجابة غير موفقة. الجواب الصحيح هو: <b>${q.answer}</b>`;
+                        explanationText.style.display = 'block'; // إظهار التوضيح
+                    }
+                };
+
+                container.appendChild(qCard);
+            });
+        }
+    </script>
+</body>
+</html>

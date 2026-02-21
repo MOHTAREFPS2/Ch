@@ -219,7 +219,7 @@
 
                 const title = document.createElement('h3');
                 title.className = 'question-title';
-                title.innerText = `Q ${index + 1}: ${q.question}`;
+                title.innerText = `Q${index + 1}: ${q.question}`;
                 card.appendChild(title);
 
                 const list = document.createElement('ul');
@@ -237,7 +237,7 @@
 
                 const explanationDiv = document.createElement('div');
                 explanationDiv.className = 'feedback-explanation';
-                explanationDiv.innerHTML = `<b>توضيح:</b> ${q.explanation}`;
+                explanationDiv.innerHTML = `<b>Exp:</b> ${q.explanation}`;
                 feedbackBox.appendChild(explanationDiv);
 
                 q.options.forEach((optText, optIndex) => {

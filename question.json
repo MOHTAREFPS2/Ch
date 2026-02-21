@@ -1,278 +1,178 @@
 [
   {
-    "question": "A premature neonate presents with severe hypoxemia and respiratory distress shortly after birth. Analysis of the pulmonary surfactant reveals a specific lipid deficiency. Complete hydrolysis of this missing lipid would normally yield which unique component?",
-    "options": [
-      "Ethanolamine",
-      "Sphingosine",
-      "Choline base",
-      "Inositol"
-    ],
+    "question": "What percentage of total body weight does Total Body Water (TBW) approximately represent in an adult male?",
+    "options": ["40%", "50%", "60%", "70%"],
+    "type": "MCQ",
     "answer": "C",
-    "explanation": "نقص السرفاكتانت يسبب متلازمة RDS. المكون الأساسي للسرفاكتانت هو Di-palmitoyl lecithin، والليسيثين عند تحلله يعطي قاعدة الكولين (Choline base)."
+    "explanation": "TBW makes up approximately 60% of body weight in an adult male, and 50-55% in an adult female."
   },
   {
-    "question": "A patient on a strictly fat-free diet develops dermatitis and poor wound healing. If linoleic acid is completely absent from their diet, which of the following fatty acids becomes conditionally essential?",
-    "options": [
-      "Palmitic acid (16:0)",
-      "Oleic acid (18:1)",
-      "Linolenic acid (18:3)",
-      "Arachidonic acid (20:4)"
-    ],
-    "answer": "D",
-    "explanation": "حمض الأراكيدونيك يصبح أساسياً (Essential) ويجب تناوله في الغذاء إذا كان هناك نقص في حمض اللينوليك في النظام الغذائي."
-  },
-  {
-    "question": "A 28-year-old female patient has a history of recurrent deep vein thrombosis and two consecutive fetal losses. Her condition is linked to autoantibodies targeting which specific class of molecules?",
-    "options": [
-      "Neutral triglycerides",
-      "Acidic phospholipids",
-      "Apolipoproteins",
-      "Cholesterol esters"
-    ],
-    "answer": "B",
-    "explanation": "المريضة تعاني من (Anti-phospholipid syndrome)، حيث تهاجم الأجسام المضادة الدهون الفوسفاتية الحامضية (Acidic phospholipids) مثل الكارديوليقين."
-  },
-  {
-    "question": "A patient with impaired hepatic function develops severe hepatomegaly. Biopsy shows massive triacylglycerol accumulation (Fatty Liver). This defect is most likely due to the failure in assembling which structure necessary for lipid export?",
-    "options": [
-      "Lipoproteins",
-      "Cell membrane bilayers",
-      "Cholesterol stones",
-      "Prostaglandins"
-    ],
+    "question": "Which compartment contains the largest portion of Total Body Water (~67%)?",
+    "options": ["Intracellular fluid (ICF)", "Plasma", "Interstitial fluid", "Extracellular fluid (ECF)"],
+    "type": "MCQ",
     "answer": "A",
-    "explanation": "الكبد الدهني يحدث بسبب خلل في نقل الدهون (triacylglycerol) من الكبد إلى الأنسجة، وهذا النقل يعتمد حصرياً على تكوين البروتينات الدهنية (Lipoproteins)."
+    "explanation": "The Intracellular fluid (ICF) holds about 67% of the Total Body Water, making it the largest fluid compartment."
   },
   {
-    "question": "To prevent cellular toxicity from excess free membrane lipids, an intracellular enzyme modifies cholesterol for storage. This enzymatic modification specifically occurs at which structural position?",
-    "options": [
-      "Carbon 27 via phosphorylation",
-      "The hydrophobic tail via saturation",
-      "Carbon 3 hydroxyl group via esterification",
-      "The steroid nucleus via cleavage"
-    ],
-    "answer": "C",
-    "explanation": "يُخزن الكوليسترول على شكل (Cholesterol esters) داخل الخلية، وتتم هذه العملية عن طريق أسترة مجموعة الهيدروكسيل (OH) الحرة الموجودة عند ذرة الكربون رقم 3."
-  },
-  {
-    "question": "A demyelinating disease affects the specific lipid composition of nerve cell membranes. The primary compound lipid affected in this tissue does NOT contain which of the following components upon complete hydrolysis?",
-    "options": [
-      "Fatty acids",
-      "Phosphoric acid",
-      "Glycerol",
-      "Sphingosine"
-    ],
-    "answer": "C",
-    "explanation": "الدهن الأساسي في الأعصاب والدماغ هو السفينغوميالين (Sphingomyelin)، وهو لا يحتوي على الجليسرول، بل يستخدم كحول السفينغوزين بدلاً منه."
-  },
-  {
-    "question": "During a laboratory experiment, a researcher completely hydrolyzes Phosphatidic acid. Which of the following accurately represents the expected yield?",
-    "options": [
-      "Glycerol, fatty acids, phosphoric acid, and choline",
-      "Glycerol, saturated FA, unsaturated FA, and phosphoric acid",
-      "Sphingosine, fatty acids, and phosphoric acid",
-      "Glycerol and three molecules of fatty acids"
-    ],
+    "question": "Which of the following are the major cations found primarily in the Intracellular Fluid (ICF)?",
+    "options": ["Sodium and Calcium", "Potassium and Magnesium", "Sodium and Potassium", "Chloride and Bicarbonate"],
+    "type": "MCQ",
     "answer": "B",
-    "explanation": "حمض الفوسفاتيديك هو أبسط فوسفوليبيد، وعند تحلله يعطي: جليسرول، حمض دهني مشبع، حمض دهني غير مشبع، وحمض الفوسفوريك (بدون أي قواعد إضافية مثل الكولين)."
+    "explanation": "Potassium (K+) and Magnesium (Mg2+) are the major cations inside the cell (ICF), while Sodium (Na+) is the major cation in the ECF."
   },
   {
-    "question": "A patient undergoes cholecystectomy for severe gallstones. Biochemical analysis shows the stones are purely cholesterol. This condition primarily results from a deficiency of which substance normally responsible for solubilizing cholesterol in bile?",
-    "options": [
-      "Prostaglandins",
-      "Apolipoproteins",
-      "Phospholipids",
-      "Lipases"
-    ],
+    "question": "What is the normal physiologic range of arterial blood pH?",
+    "options": ["7.00 - 7.10", "7.35 - 7.45", "7.50 - 7.60", "7.25 - 7.35"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The normal arterial pH is tightly regulated between 7.35 and 7.45 for cellular life to be possible."
+  },
+  {
+    "question": "Small changes in blood pH can lead to which of the following large biochemical consequences?",
+    "options": ["Increased enzyme activity", "Enzyme denaturation", "Enhanced receptor-ligand interactions", "Improved membrane transport"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Small pH changes cause severe biochemical consequences including enzyme denaturation, altered protein charge, and disrupted membrane transport."
+  },
+  {
+    "question": "What is the approximate intracellular pH value, which creates a concentration gradient with arterial blood?",
+    "options": ["7.4", "7.35", "7.0", "6.5"],
+    "type": "MCQ",
     "answer": "C",
-    "explanation": "الدهون الفوسفاتية (Phospholipids) في عصارة المرارة تعمل كمذيب للكوليسترول وتمنع ترسبه. نقصها يؤدي مباشرة إلى تكوين حصوات الكوليسترول."
+    "explanation": "The intracellular pH is quite variable and lower, sitting at about 7.0, creating a 0.4 gradient compared to arterial pH."
   },
   {
-    "question": "Non-steroidal anti-inflammatory drugs (NSAIDs) exert their pain-relieving effect by blocking the conversion of a specific tetra-enoic fatty acid into prostaglandins. What is the standard numerical designation for this precursor fatty acid?",
-    "options": [
-      "18:1",
-      "18:2",
-      "18:3",
-      "20:4"
-    ],
+    "question": "Which organ system is primarily responsible for the excretion of volatile acids like CO2?",
+    "options": ["Liver", "Kidneys", "Lungs", "Skin"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Volatile acids, specifically carbon dioxide generated from oxidative metabolism, leave the body via external respiration through the lungs."
+  },
+  {
+    "question": "Which enzyme catalyzes the reaction where carbon dioxide combines with water to form carbonic acid in the blood?",
+    "options": ["Carbohydrase", "Carbonic anhydrase", "Lipase", "Protease"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "CO2 combines with water in the presence of the carbonic anhydrase enzyme to create carbonic acid (H2CO3)."
+  },
+  {
+    "question": "In which cellular organelle does the beta-oxidation of fatty acids primarily occur to generate ketone bodies?",
+    "options": ["Cytoplasm", "Nucleus", "Liver mitochondria", "Ribosomes"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Fatty acids undergo beta-oxidation specifically in the liver mitochondria to generate energy and ketone bodies."
+  },
+  {
+    "question": "Which hormone is the most important regulatory factor in ketogenesis and lipolysis, inhibiting them when its levels are high?",
+    "options": ["Glucagon", "Adrenaline", "Insulin", "Cortisol"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Both ketogenesis and lipolysis are regulated by Insulin; they primarily occur when insulin action falls to low levels, such as during fasting."
+  },
+  {
+    "question": "The liver synthesizes urea from ammonia. According to the ureagenesis equation, what else is produced that contributes to the body's acid load?",
+    "options": ["Bicarbonate ions", "Hydrogen ions (H+)", "Oxygen", "Ketone bodies"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The process of ureagenesis (CO2 + 2 NH4+ -> urea + H2O + 2 H+) releases hydrogen ions, adding to the acid load."
+  },
+  {
+    "question": "Which of the following fixed (non-volatile) acids is classified as an INORGANIC acid?",
+    "options": ["Lactic acid", "Beta-hydroxybutyric acid", "Sulfuric acid", "Acetoacetic acid"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Sulfuric acid, hydrochloric acid, and phosphoric acid are inorganic acids, while lactic, fatty, and ketoacids are organic."
+  },
+  {
+    "question": "Sulfuric acid in the body is primarily generated from the catabolism of which molecules?",
+    "options": ["Carbohydrates", "Fatty acids", "Amino acids", "Nucleic acids"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Sulfuric acid is a fixed non-volatile acid that is specifically generated from amino acid catabolism."
+  },
+  {
+    "question": "A blood pH value lower than 7.36 in arteries is medically denoted as:",
+    "options": ["Alkalemia", "Acidemia", "Homeostasis", "Hypocapnia"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "A pH lower than 7.36 is acidemia, while a pH higher than 7.44 is alkalemia."
+  },
+  {
+    "question": "Under normal physiologic conditions (Homeostasis), what is the normal range for the partial pressure of carbon dioxide (PCO2)?",
+    "options": ["25-35 mm Hg", "35-45 mm Hg", "45-55 mm Hg", "55-65 mm Hg"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Normal homeostasis requires the PCO2 to be maintained between 35 and 45 mm Hg."
+  },
+  {
+    "question": "According to the acid-base homeostasis diagram, what happens immediately when blood PCO2 levels rise?",
+    "options": ["pH goes up", "pH goes down", "Carbonic acid dissociates into CO2 and H2O", "H+ ions are removed from the solution"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "When PCO2 rises, more carbonic acid forms, releasing additional H+ and bicarbonate ions, which causes the pH to go down."
+  },
+  {
+    "question": "While maintaining normal plasma pH, the kidneys excrete hydrogen ions. As a result, what is the average pH of normal urine?",
+    "options": ["7.4", "8.0", "6.0", "4.5"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "Because the kidneys secrete hydrogen ions to maintain blood pH, the normal pH of urine varies but averages 6.0, making it slightly acidic."
+  },
+  {
+    "question": "Which of the four maintenance factors provides IMMEDIATE, short-term pH stability by temporarily storing H+ ions?",
+    "options": ["Active tissues", "Respiratory system", "Kidneys", "Buffer systems"],
+    "type": "MCQ",
     "answer": "D",
-    "explanation": "المادة الخام للبروستاغلاندين هي حمض الأراكيدونيك (Arachidonic acid)، وهو حمض دهني يحتوي على 20 ذرة كربون و 4 روابط مزدوجة (20:4)."
+    "explanation": "Buffer systems act as the immediate, short-term stabilizers by temporarily storing excess H+ until lungs and kidneys can eliminate it."
   },
   {
-    "question": "The characteristic fluidity of the eukaryotic cell membrane is biochemically modulated by a specific C27 molecule. How does this molecule orient itself within the lipid bilayer?",
-    "options": [
-      "It binds to the outer carbohydrate chains of glycolipids.",
-      "Its polar OH group faces the aqueous interface, while its body lies within the hydrophobic tails.",
-      "It is completely submerged in the hydrophobic core, away from any water molecules.",
-      "It forms a separate rigid monolayer on the cytoplasmic side of the membrane."
-    ],
+    "question": "A chemical buffer generally consists of which two components?",
+    "options": ["A strong acid and its anion", "A weak acid and the anion released by its dissociation", "A strong base and a weak acid", "Two weak acids combined"],
+    "type": "MCQ",
     "answer": "B",
-    "explanation": "الكوليسترول (C27) يوجه رأسه القطبي (مجموعة OH) نحو السطح المائي للغشاء، بينما يندفن باقي تركيبه الكاره للماء بين ذيول الأحماض الدهنية لينظم سيولة الغشاء."
+    "explanation": "A buffer generally consists of a weak acid (HY) and the anion released by its dissociation (Y-)."
   },
   {
-    "question": "A patient with a rare bleeding disorder undergoes extensive lipid profiling. The hematologist notes a functional defect in specific membrane lipids crucial for the blood coagulation cascade. Which pair of lipids is most likely implicated?",
-    "options": [
-      "Lecithin and Sphingomyelin",
-      "Cephalin and Cardiolipin",
-      "Cholesterol and Triacylglycerol",
-      "Plasmalogen and Waxes"
-    ],
-    "answer": "B",
-    "explanation": "السيفالين (Cephalins)، بالإضافة إلى فوسفاتيديل سيرين وكارديوليقين، تلعب دوراً أساسياً ومباشراً في عملية تخثر الدم (Blood coagulation)."
-  },
-  {
-    "question": "Which of the following statements most accurately distinguishes Sterols from other classes of derived lipids?",
-    "options": [
-      "They are linear hydrocarbon chains lacking double bonds.",
-      "They are steroids containing a free hydroxyl group.",
-      "They are the primary storage form of energy in adipocytes.",
-      "They are highly water-soluble due to multiple phosphate groups."
-    ],
-    "answer": "B",
-    "explanation": "الستيرولز (Sterols) تُعرّف كيميائياً بأنها ستيرويدات تحتوي على مجموعات هيدروكسيل (OH)، والكوليسترول هو أشهر مثال في الأنسجة الحيوانية."
-  },
-  {
-    "question": "In a clinical laboratory, a technician separates a patient's plasma lipoproteins based on their density. Which specific technique is most appropriate for this physical separation?",
-    "options": [
-      "Mass spectrometry",
-      "Ultracentrifugation",
-      "Polymerase chain reaction (PCR)",
-      "Simple distillation"
-    ],
-    "answer": "B",
-    "explanation": "تُفصل البروتينات الدهنية (Lipoproteins) في المختبر إما عن طريق الطرد المركزي الفائق (Ultracentrifugation) بناءً على كثافتها، أو الرحلان الكهربائي (Electrophoresis)."
-  },
-  {
-    "question": "Comparing the structural formulas of various fatty acids, which feature directly causes an unsaturated fatty acid to remain liquid at room temperature compared to a saturated one?",
-    "options": [
-      "The presence of a phosphate group at the terminal end.",
-      "The length of the carbon chain exceeding 20 carbons.",
-      "The presence of one or more double bonds causing bends in the hydrocarbon chain.",
-      "The binding of the fatty acid to a cholesterol nucleus."
-    ],
+    "question": "Which buffer system is considered the MOST important in regulating the pH of the Extracellular Fluid (ECF)?",
+    "options": ["Phosphate Buffer System", "Hemoglobin buffer system", "Carbonic Acid/Bicarbonate Buffer System", "Amino acid buffers"],
+    "type": "MCQ",
     "answer": "C",
-    "explanation": "الروابط المزدوجة في الأحماض الدهنية غير المشبعة تسبب 'انحناءات' في السلسلة، مما يمنع الجزيئات من التكدس بصلابة، فتظل سائلة في درجة حرارة الغرفة."
+    "explanation": "The Carbonic Acid/Bicarbonate Buffer System is the most important buffering system operating in the ECF."
   },
   {
-    "question": "A forensic biochemist analyzes an unknown lipid sample and finds it consists exclusively of fatty acids esterified to high molecular weight monohydric alcohols, with no glycerol present. This lipid is best classified as a:",
-    "options": [
-      "Simple lipid (Fat)",
-      "Simple lipid (Wax)",
-      "Compound lipid (Glycolipid)",
-      "Derived lipid (Steroid)"
-    ],
+    "question": "The Hemoglobin buffer system functions exclusively in which specific body compartment?",
+    "options": ["Blood plasma", "Red blood cells (RBCs)", "Interstitial fluid", "Urine"],
+    "type": "MCQ",
     "answer": "B",
-    "explanation": "الشموع (Waxes) هي دهون بسيطة تتكون من استر حمض دهني مع كحول أحادي الهيدروكسيل ذو وزن جزيئي عالٍ، بينما الدهون العادية تستخدم الجليسرول."
+    "explanation": "The hemoglobin buffer system is a protein buffer that is located exclusively inside red blood cells (RBCs only)."
   },
   {
-    "question": "Which of the following is NOT considered a physiological function of essential polyunsaturated fatty acids (PUFA)?",
-    "options": [
-      "Synthesis of eicosanoic acids",
-      "Raising plasma cholesterol levels",
-      "Proper development and functioning of the brain",
-      "Role in membrane formation and function"
-    ],
-    "answer": "B",
-    "explanation": "الأحماض الدهنية الأساسية تعمل على (خفض) كوليسترول البلازما وليس رفعه، مما يجعلها مفيدة لصحة القلب والأوعية الدموية."
-  },
-  {
-    "question": "A poly-enoic fatty acid is designated biochemically as (18:2). This specific notation indicates that the molecule is:",
-    "options": [
-      "Oleic acid, containing 18 carbons and 2 oxygen atoms.",
-      "Linolenic acid, containing 18 carbons and 2 double bonds.",
-      "Linoleic acid, containing 18 carbons and 2 double bonds.",
-      "Arachidonic acid, containing 18 carbons and 2 double bonds."
-    ],
-    "answer": "C",
-    "explanation": "الرمز (18:2) يعود لحمض اللينوليك (Linoleic acid) الذي يحتوي على 18 ذرة كربون ورابطتين مزدوجتين (Di-enoic)."
-  },
-  {
-    "question": "In the context of complex lipid synthesis, which of the following molecules acts as the direct immediate precursor for both Lecithin (phosphatidylcholine) and Cephalin (phosphatidylethanolamine)?",
-    "options": [
-      "Cholesterol",
-      "Phosphatidic acid",
-      "Sphingosine",
-      "Arachidonic acid"
-    ],
-    "answer": "B",
-    "explanation": "حمض الفوسفاتيديك (Phosphatidic acid) هو الأب والسلف (Precursor) لجميع الدهون الفوسفاتية التي تحتوي على الجليسرول."
-  },
-  {
-    "question": "Atherosclerosis is a life-threatening condition initiated by lipid deposition in blood vessel walls. The primary pathological molecule deposited is transported through the plasma mainly via complexes composed of lipids and:",
-    "options": [
-      "Specific proteins called apolipoproteins",
-      "Carbohydrate chains attached to sphingosine",
-      "Free floating phosphoric acids",
-      "Aggregates of essential fatty acids"
-    ],
-    "answer": "A",
-    "explanation": "تصلب الشرايين ينتج عن ترسب الكوليسترول. هذا الكوليسترول ينتقل في الدم عبر (Lipoproteins) وهي معقدات من الدهون وبروتينات متخصصة تسمى Apolipoproteins."
-  },
-  {
-    "question": "If a biochemist wants to synthesize a Glycolipid in vitro, which of the following functional groups or molecules must be strictly EXCLUDED from the reaction mixture?",
-    "options": [
-      "Fatty acids",
-      "Sphingosine",
-      "Carbohydrates",
-      "Phosphoric acid"
-    ],
+    "question": "Combining plasma and erythrocytes, which buffer system accounts for the largest overall percentage (53%) of the total blood buffering capacity?",
+    "options": ["Phosphate buffer", "Hemoglobin buffer", "Plasma proteins", "Bicarbonate/CO2 buffer"],
+    "type": "MCQ",
     "answer": "D",
-    "explanation": "الليبيدات السكرية (Glycolipids) تتكون من دهون وسكريات وسفينغوزين، ولكنها لا تحتوي إطلاقاً على مجموعة فوسفات (Phosphoric acid)."
+    "explanation": "The HCO3- / CO2 (Bicarbonate) buffer system accounts for 35% in plasma and 18% in erythrocytes, totaling 53%."
   },
   {
-    "question": "Which of the following biologically active compounds is NOT synthesized using cholesterol as a precursor?",
-    "options": [
-      "Cortisol (Adrenal gland hormone)",
-      "Progesterone (Sex hormone)",
-      "Bile acids",
-      "Prostaglandins"
-    ],
-    "answer": "D",
-    "explanation": "البروستاغلاندين يُصنع من حمض الأراكيدونيك (حمض دهني)، بينما الكورتيزول، أحماض الصفراء، والهرمونات الجنسية تُصنع جميعها من الكوليسترول."
-  },
-  {
-    "question": "Upon complete hydrolysis, which of the following lipids would yield an alcohol that is NOT glycerol?",
-    "options": [
-      "Triacylglycerol",
-      "Lecithin",
-      "Sphingomyelin",
-      "Cephalin"
-    ],
-    "answer": "C",
-    "explanation": "السفينغوميالين (Sphingomyelin) ينتمي إلى مجموعة Sphingo-phospholipids التي تستخدم كحول السفينغوزين (Sphingosine) بدلاً من الجليسرول."
-  },
-  {
-    "question": "The unifying physical property of all simple, compound, and derived lipids, despite their vast structural diversity, is their:",
-    "options": [
-      "Ability to form long polymeric chains",
-      "Insolubility in aqueous plasma and water",
-      "Presence of at least one double bond",
-      "Dependence on cholesterol for structural integrity"
-    ],
+    "question": "Which system plays an important role specifically in buffering the pH of the Intracellular Fluid (ICF) and the urine?",
+    "options": ["Carbonic acid-bicarbonate buffer", "Phosphate buffer system", "Hemoglobin buffer", "Plasma protein buffers"],
+    "type": "MCQ",
     "answer": "B",
-    "explanation": "الخاصية الوحيدة التي تجمع كل الليبيدات (سواء بسيطة أو مركبة أو مشتقة) هي كراهيتها للماء وعدم ذوبانها فيه، وقدرتها على الذوبان في المذيبات العضوية."
+    "explanation": "The Phosphate Buffer System has an important role in buffering the pH of both the ICF and the urine."
   },
   {
-    "question": "A medical student is studying the structural components of membranes. They note a lipid that acts as an interface between the hydrophobic core and the aqueous environment, containing choline. This lipid is highly abundant in the liver and brain. What is it?",
-    "options": [
-      "Cardiolipin",
-      "Phosphatidylcholine (Lecithin)",
-      "Phosphatidylethanolamine (Cephalin)",
-      "Phosphatidylinositol"
-    ],
+    "question": "Body fluids contain a large 'bicarbonate reserve' primarily in the form of dissolved molecules of which weak base?",
+    "options": ["Sodium chloride (NaCl)", "Sodium bicarbonate (NaHCO3)", "Carbonic acid (H2CO3)", "Potassium hydroxide (KOH)"],
+    "type": "MCQ",
     "answer": "B",
-    "explanation": "الليسيثين (Lecithin) هو فوسفاتيديل كولين، ويوجد بكميات كبيرة في غشاء الخلية والكبد والدماغ، ويحتوي على قاعدة الكولين."
+    "explanation": "The readily available supply of HCO3- (bicarbonate reserve) exists primarily as dissolved molecules of sodium bicarbonate (NaHCO3)."
   },
   {
-    "question": "Derived lipids are produced by the hydrolysis of simple or compound lipids. Which of the following pairs represents exclusively derived lipids?",
-    "options": [
-      "Triglycerides and Waxes",
-      "Lecithin and Cephalin",
-      "Fatty acids and Cholesterol",
-      "Sphingomyelin and Glycolipids"
-    ],
-    "answer": "C",
-    "explanation": "الأحماض الدهنية والكوليسترول (والستيرولات عموماً) تُصنف ضمن الدهون المشتقة (Derived Lipids) حسب التصنيف الكيميائي الحيوي."
+    "question": "The primary function of the carbonic acid-bicarbonate buffer system is to protect against fixed acids by taking released H+ and ultimately generating:",
+    "options": ["Urea and water", "Water and carbon dioxide to be eliminated at the lungs", "Lactic acid to be stored in muscles", "Ammonia to be excreted by kidneys"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "It takes the H+ released by acids and generates carbonic acid, which dissociates into water and carbon dioxide that can be easily eliminated by the lungs."
   },
   {
     "question": "Which of the following macromolecules are NOT polymeric molecules?",
@@ -1323,5 +1223,205 @@
     "type": "MCQ",
     "answer": "C",
     "explanation": "Isomaltose contains 2 glucose units combined in an alpha-1,6 linkage, where the first carbon of one glucose is attached to the sixth carbon of another."
+  },
+  {
+    "question": "Building blocks of nucleic acids are",
+    "options": ["Nucleotides", "Nucleosides", "Amino acids", "Histones"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Nucleotides are the fundamental building blocks (monomers) of nucleic acids like DNA and RNA."
+  },
+  {
+    "question": "The sugar molecule in a nucleotide is",
+    "options": ["Pentose", "Hexose", "Tetrose", "Triose"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "The sugar component of a nucleotide is a five-carbon sugar known as a pentose (specifically, ribose in RNA and deoxyribose in DNA)."
+  },
+  {
+    "question": "Group of adjacent nucleotides are joined by",
+    "options": ["Phosphodiester bond", "Peptide bond", "Ionic bond", "Covalent bond"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Adjacent nucleotides in a DNA or RNA strand are linked together by strong covalent bonds called phosphodiester bonds."
+  },
+  {
+    "question": "What is the composition of nucleoside?",
+    "options": ["a sugar + a phosphate", "a base + a sugar", "a base + a phosphate", "a base + a sugar + phosphate"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "A nucleoside consists only of a nitrogenous base covalently attached to a pentose sugar, lacking the phosphate group."
+  },
+  {
+    "question": "What is the composition of nucleotide?",
+    "options": ["a sugar + a phosphate", "a base + a sugar", "a base + a phosphate", "a base + a sugar + phosphate"],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "A complete nucleotide is composed of three parts: a nitrogenous base, a pentose sugar, and one or more phosphate groups."
+  },
+  {
+    "question": "Which of the following are not the components of RNA?",
+    "options": ["Thymine", "Adenine", "Guanine", "Cytosine"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Thymine is exclusively found in DNA. In RNA, Thymine is replaced by the pyrimidine base Uracil."
+  },
+  {
+    "question": "Identify the purine base of nucleic acids in the following",
+    "options": ["Cytosine", "Thymine", "Uracil", "Adenine"],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "Adenine and Guanine are purines, characterized by a double-ring structure. Cytosine, Thymine, and Uracil are pyrimidines (single-ring)."
+  },
+  {
+    "question": "Which of the following is true about phosphodiester linkage?",
+    "options": [
+      "5'-phosphate group of one nucleotide unit is joined to the 3'-hydroxyl group of the next nucleotide",
+      "3'-phosphate group of one nucleotide unit is joined to the 5'-hydroxyl group of the next nucleotide",
+      "5'-phosphate group of one nucleotide unit is joined to the 5'-hydroxyl group of the next nucleotide",
+      "3'-phosphate group of one nucleotide unit is joined to the 3'-hydroxyl group of the next nucleotide"
+    ],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "A phosphodiester bond links the 5'-phosphate group of one nucleotide to the 3'-hydroxyl (OH) group of the adjacent nucleotide, forming the sugar-phosphate backbone."
+  },
+  {
+    "question": "Which of the following statements is NOT true?",
+    "options": [
+      "Sugar component of a nucleotide is ribose",
+      "Sugar component of a nucleotide is deoxyribose",
+      "The bases in nucleotides are attached to a pentose sugar moiety by a glycosidic linkage",
+      "The sugar molecule of the nucleotide is in L-configuration"
+    ],
+    "type": "MCQ",
+    "answer": "D",
+    "explanation": "Naturally occurring pentose sugars in nucleic acids are always in the D-configuration (e.g., D-ribose and D-deoxyribose), not the L-configuration."
+  },
+  {
+    "question": "The sugar in RNA is ________, the sugar in DNA is ________",
+    "options": ["deoxyribose, ribose", "ribose, deoxyribose", "ribose, phosphate", "ribose, uracil"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "RNA contains the sugar ribose, whereas DNA contains deoxyribose, which lacks an oxygen atom at the 2' carbon position."
+  },
+  {
+    "question": "A five carbon sugar lacking an oxygen hydrogen at the number 2 carbon is found in",
+    "options": ["DNA", "RNA", "mRNA", "rDNA"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "The absence of a hydroxyl (-OH) group at the 2' carbon characterizes deoxyribose, the specific pentose sugar found in DNA."
+  },
+  {
+    "question": "Which of the following is found on RNA but not DNA?",
+    "options": ["Uracil", "Deoxyribose", "Phosphate", "Adenine"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Uracil is a pyrimidine base that is unique to RNA, serving the same base-pairing function that Thymine serves in DNA."
+  },
+  {
+    "question": "Which of the following is NOT a feature of DNA",
+    "options": [
+      "Base pairs joined by hydrogen bonds",
+      "Base unit is the nucleoside",
+      "Strands are complementary and antiparallel",
+      "Sugar phosphate backbone"
+    ],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The basic repeating structural unit of DNA is the nucleotide (which includes a phosphate group), not the nucleoside."
+  },
+  {
+    "question": "To which of the following does thymine form hydrogen bonds in DNA?",
+    "options": ["adenine", "thymine", "cytosine", "guanine"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "According to complementary base pairing rules, Thymine (T) always pairs with Adenine (A) via two hydrogen bonds."
+  },
+  {
+    "question": "On which of the following molecules would you find a codon?",
+    "options": ["messenger RNA", "ribosomal RNA", "transfer RNA", "DNA"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Codons are specific sequences of three adjacent nucleotides located on messenger RNA (mRNA) that dictate the insertion of a specific amino acid during translation."
+  },
+  {
+    "question": "The two strands in DNA double helix are joined by",
+    "options": ["Covalent bond", "Hydrogen bond", "Ionic bond", "Phosphodiester bond"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "The two complementary strands of a DNA double helix are held together by relatively weak hydrogen bonds between the opposite nitrogenous bases."
+  },
+  {
+    "question": "Chromatin is composed of",
+    "options": ["Nucleic acids and proteins", "Nucleic acids only", "Proteins only", "None of the above"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "Chromatin is a highly organized complex consisting of DNA (nucleic acids) and structural packaging proteins, primarily histones."
+  },
+  {
+    "question": "A short length of DNA has 80 thymine and 80 guanine residues. The total no. of nucleotides in DNA fragment is",
+    "options": ["160", "40", "320", "640"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "According to Chargaff's rules, A=T and G=C. If there are 80 T and 80 G, there must also be 80 A and 80 C. Total = 80 + 80 + 80 + 80 = 320 nucleotides."
+  },
+  {
+    "question": "DNA is present in",
+    "options": [
+      "Nucleus only",
+      "Nucleus, Mitochondria and ER",
+      "Nucleus, Mitochondria and Chloroplast",
+      "Nucleus, Mitochondria and Golgi Bodies"
+    ],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "In eukaryotic cells, while most DNA is located in the nucleus, mitochondria and chloroplasts (in plants) possess their own circular DNA."
+  },
+  {
+    "question": "The length of one turn of DNA is",
+    "options": ["3.4 Å", "34 Å", "20 Å", "3.04 Å"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "One complete turn (360 degrees) of the standard B-DNA double helix measures exactly 34 Å (3.4 nm) in length, containing approximately 10 base pairs."
+  },
+  {
+    "question": "The width of DNA is",
+    "options": ["15 Å", "3.4 Å", "20 Å", "34 Å"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "The uniform diameter or width of the B-DNA double helix is approximately 20 Å (2.0 nm)."
+  },
+  {
+    "question": "DNA is the genetic material in",
+    "options": [
+      "Some Viruses, prokaryotes and Eukaryotes",
+      "prokaryotes and Eukaryotes",
+      "In Eukaryotes only",
+      "Viruses, prokaryotes and Eukaryotes"
+    ],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "DNA serves as the primary genetic material in all prokaryotes and eukaryotes, as well as in a specific subset of viruses known as DNA viruses."
+  },
+  {
+    "question": "RNA is the genetic material in",
+    "options": ["Some viruses and prokaryotes", "Some viruses only", "Some prokaryotes only", "Some Eukaryotes"],
+    "type": "MCQ",
+    "answer": "B",
+    "explanation": "Unlike cellular organisms, certain viruses (RNA viruses) rely exclusively on RNA as their primary genetic material."
+  },
+  {
+    "question": "The pentoses in nucleotides are",
+    "options": ["In β furanose form", "In α furanose form", "Both", "None"],
+    "type": "MCQ",
+    "answer": "A",
+    "explanation": "The pentose sugars (ribose or deoxyribose) in nucleic acids always exist in a five-membered ring structure called the β-furanose form."
+  },
+  {
+    "question": "On which of the following molecules would you find a anticodon?",
+    "options": ["messenger RNA", "ribosomal RNA", "transfer RNA", "DNA"],
+    "type": "MCQ",
+    "answer": "C",
+    "explanation": "An anticodon is a specific three-nucleotide sequence found on transfer RNA (tRNA) that pairs with a complementary codon on mRNA during protein synthesis."
   }
 ]
